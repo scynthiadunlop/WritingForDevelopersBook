@@ -1,7 +1,8 @@
-This file contains links to the blog posts and other references mentioned in the book chapters.
+This file provides a handy guide to all the blog posts and other resources we mention in the book chapters. We're also using it to share cool writing resources that we discovered since the book went to press. 
 
 - [Featured Blog Posts](#featured-blog-posts)
-- [Other References](#other-references)
+- [Other In-Book References](#other-in-book-references)
+- [Writing Resources Beyond the Book](#writing-resources-beyond-the-book)
 # Featured Blog Posts
 
 ## Captivating Readers
@@ -20,7 +21,7 @@ This file contains links to the blog posts and other references mentioned in the
 
 ## The "Benchmarks and Test Results" Pattern
 
-# Other References
+# Other In-Book References
 
 ## Chapter 1
 
@@ -59,3 +60,8 @@ This file contains links to the blog posts and other references mentioned in the
 ## Appendix A
 
 ## Appendix B
+
+# Writing Resources Beyond the Book)
+- [Scramble](https://github.com/zlwaterfield/scramble): An Open source Grammarly alternative
+- [Bullshit remover](https://www.bullshitremover.com/): Paste crap, get truth.
+
