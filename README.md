@@ -17,7 +17,7 @@ This repository aggregates links to all the blog posts and other references we m
 - [Links from the book](/links/README.md)
 - [Errata](/errata/README.md)
 
-## WriteThatBlog!
+## Write That Blog!
 As a not-so-subtle hint to our readers, we created https://writethat.blog. We’ll be continuously updating this site with interesting engineering blog posts, including Piotr’s pundit commentary.
 
 ## Reviews
