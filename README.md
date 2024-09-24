@@ -7,7 +7,7 @@ We cover pragmatic strategies for optimizing all phases of the blog writing proc
 
 Oh...and there's also a foreword by Bryan Cantrill and an afterword Scott Hanselsman!  
 
-The book is now complete! It's currently in the production phase, and heading off to the printers soon. You can purchase it from [Amazon](https://www.amazon.com/Writing-Developers-Blogs-that-read/dp/1633436284/ref=sr_1_1?crid=2QWJZGPI5YDV2&dib=eyJ2IjoiMSJ9.n4PTUEfL33sdEnpF9gpHW6kR5nFOW353nRfYqeMhONcPGxPAOJpxntbJV0ct8wDS8Q8gTMHJAK5F455GQA4Ya_tx5IOigXJc4PwXI2jjCZA.BDsekcICCo54-1vnKf_ryO3NVJj94UEeTVJfCvlQH0c&dib_tag=se&keywords=piotr+sarna&qid=1727152523&sprefix=piotr+sarna%2Caps%2C447&sr=8-1) or [Manning](https://www.manning.com/books/writing-for-developers?utm_source=dunlop&utm_medium=affiliate&utm_campaign=book_dunlop_writing_5_16_24&a_aid=dunlop&a_bid=33a8dae6&chan=mm_twitter&). 
+The book is now complete. It's currently in the production phase, and heading off to the printers soon. You can purchase it from [Amazon](https://www.amazon.com/Writing-Developers-Blogs-that-read/dp/1633436284/ref=sr_1_1?crid=2QWJZGPI5YDV2&dib=eyJ2IjoiMSJ9.n4PTUEfL33sdEnpF9gpHW6kR5nFOW353nRfYqeMhONcPGxPAOJpxntbJV0ct8wDS8Q8gTMHJAK5F455GQA4Ya_tx5IOigXJc4PwXI2jjCZA.BDsekcICCo54-1vnKf_ryO3NVJj94UEeTVJfCvlQH0c&dib_tag=se&keywords=piotr+sarna&qid=1727152523&sprefix=piotr+sarna%2Caps%2C447&sr=8-1) or [Manning](https://www.manning.com/books/writing-for-developers?utm_source=dunlop&utm_medium=affiliate&utm_campaign=book_dunlop_writing_5_16_24&a_aid=dunlop&a_bid=33a8dae6&chan=mm_twitter&). 
 
 ## About this repo 
 This repository aggregates links to all the blog posts and other references we mention in the book. And as we create or encounter related writing resources, we'll add them here too. 
