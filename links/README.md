@@ -1,7 +1,7 @@
 This file contains links to the blog posts and other references mentioned in the book chapters.
 
 - [Featured Blog Posts](#featured-blog-posts)
- - [Other References](#other-references)
+- [Other References](#other-references)
 # Featured Blog Posts
 
 ## Captivating Readers
