@@ -10,7 +10,9 @@
 
 We discuss strategies for optimizing all phases of the blog writing process: planning, drafting, revision -- even promotion and extension. And we have quite a bit of fun exploring the core blog post patterns that are most common across engineering blogs today, like “The Bug Hunt,” “How We Built It,” “Lessons Learned,” “We Rewrote It in X,” “Thoughts on Trends,” etc. Each "pattern" chapter includes an analysis of five real-world examples as well as specific dos/don’ts for that particular pattern. There's a section on moving from blogging into opportunities such as article writing, conference speaking, and book writing. Finally, we leave you with a playful look at generative AI uses and abuses for blog writing.
 
-Oh...and there's also a foreword by Bryan Cantrill and an afterword by Scott Hanselman!  
+Oh...and there's also a **foreword by Bryan Cantrill** and an **afterword by Scott Hanselman**!  
+
+You can [preview the chapters on the Manning site](https://livebook.manning.com/book/writing-for-developers).
 
 ## About this repo 
 This repository aggregates links to all the blog posts and other references we mention in the book. And as we create or encounter related writing resources, we'll add them here too. 
