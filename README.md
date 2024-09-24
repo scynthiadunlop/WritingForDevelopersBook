@@ -1,7 +1,7 @@
 # Writing For Developers: Blogs That Get Read
 <img src="https://m.media-amazon.com/images/I/71DWTAFt53L._SY385_.jpg" align="right"/>
 
-**Writing For Developers: Blogs That Get Read** guides you to write more compelling engineering blog posts that advance the developer community, your projects, and your own career. We cover pragmatic strategies for optimizing all phases of the blog writing process, from planning, to drafting and revision, to promotion and extension. And we have quite a bit of fun exploring the core blog post patterns that are most common across engineering blogs today (e.g., “The Bug Hunt,” “How We Built It,” “Lessons Learned,” “We Rewrote It in X,” “Thoughts on Trends,” etc.) – with analysis of real-world examples and specific dos/don’ts for each pattern. 
+*Writing For Developers: Blogs That Get Read* guides you to write more compelling engineering blog posts that advance the developer community, your projects, and your own career. We cover pragmatic strategies for optimizing all phases of the blog writing process, from planning, to drafting and revision, to promotion and extension. And we have quite a bit of fun exploring the core blog post patterns that are most common across engineering blogs today (e.g., “The Bug Hunt,” “How We Built It,” “Lessons Learned,” “We Rewrote It in X,” “Thoughts on Trends,” etc.) – with analysis of real-world examples and specific dos/don’ts for each pattern. 
 
 Oh...and there's also a foreword by Bryan Cantrill and an afterword Scott Hanselsman!  
 
@@ -17,7 +17,7 @@ As a not-so-subtle hint to our readers, we created https://writethat.blog. We’
 
 “A great blog can help put your career onto the fast track, and this is the book telling you how. A must-read!” **\- Gunnar Morling, Software Engineer at Decodable**
 
-“Writing is a way to garbage collect your thoughts into a clear narrative, not just for the audience but for the individual.  Most content is noise and boring, and learning to distill the important makes you a clear thinker. It is a grueling process - for me - moving from frustration to eureka, especially if your wife is a literature major. Writing for Developers is a down-to-earth manuscript with a punk rock DIY attitude that demystifies the process and helps authors move past the writer’s block that we all face. A fun read to make you a better writer.” **\- Alex Gallego, Founder and CEO of Redpanda** 
+“Writing is a way to garbage collect your thoughts into a clear narrative, not just for the audience but for the individual.  Most content is noise and boring, and learning to distill the important makes you a clear thinker. It is a grueling process - for me - moving from frustration to eureka, especially if your wife is a literature major. *Writing for Developers* is a down-to-earth manuscript with a punk rock DIY attitude that demystifies the process and helps authors move past the writer’s block that we all face. A fun read to make you a better writer.” **\- Alex Gallego, Founder and CEO of Redpanda** 
 
 "Afraid of writing blog posts? Afraid of your boss who wants you to write blog posts? This comprehensive guide to writing engineer-oriented blog posts is for you!" **\- Avi Kivity, CTO and Co-founder of ScyllaDB**  
 
@@ -27,6 +27,6 @@ As a not-so-subtle hint to our readers, we created https://writethat.blog. We’
 
 “Piotr and Cynthia give not merely guidance on how to write, but suggestions of what to write – of unearthing the narrative arcs that naturally occur within the work of software practitioners. The book is loaded with specific examples of writing in the wild that can serve as object lessons.” **\- Bryan Cantrill, Co-founder and CTO of Oxide Computer** 
 
-"Piotr and Cynthia have both been tremendously helpful to me with writing and communicating effectively, and it's so exciting to see their wisdom distilled and shared with the world. If you're writing for developers, the best decision you can make is to read Writing for Developers." **\- Bo Ingram, Author of ScyllaDB in Action**  
+"Piotr and Cynthia have both been tremendously helpful to me with writing and communicating effectively, and it's so exciting to see their wisdom distilled and shared with the world. If you're writing for developers, the best decision you can make is to read *Writing for Developers*." **\- Bo Ingram, Author of ScyllaDB in Action**  
 
 "If you're reading this book, you're already one step ahead, because you understand the best programming language we've ever created is the one you've known since you were four years old." **\-Jeff Atwood, Coding Horror Owner/Writer, Co-founder of Stack Overflow** 
