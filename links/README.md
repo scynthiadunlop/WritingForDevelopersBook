@@ -1,7 +1,7 @@
-**Featured Blogs**
+# Featured Blogs
 
 TODO
 
-**Other Links**
+# Other Links
 
 TODO
