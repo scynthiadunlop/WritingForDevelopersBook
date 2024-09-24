@@ -61,7 +61,7 @@ This file provides a handy guide to all the blog posts and other resources we me
 
 ## Appendix B
 
-# Writing Resources Beyond the Book)
+# Writing Resources Beyond the Book
 - [Scramble](https://github.com/zlwaterfield/scramble): An Open source Grammarly alternative
 - [Bullshit remover](https://www.bullshitremover.com/): Paste crap, get truth.
 
