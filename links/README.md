@@ -6,36 +6,6 @@ This file contains links to the blog posts and other references mentioned in the
 
 TODO
 
-TODO
-
-
-TODO
-
-
-TODO
-
-
-TODO
-
-
-TODO
-
-
-TODO
-
-
-TODO
-
-
-TODO
-
-
-
-TODO
-
-
-TODO
-
 # Other References
 
 TODO
