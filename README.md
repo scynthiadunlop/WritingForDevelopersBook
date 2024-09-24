@@ -10,7 +10,7 @@
 
 We discuss strategies for optimizing all phases of the blog writing process, from planning, to drafting and revision, to promotion and extension. And we have quite a bit of fun exploring the core blog post patterns that are most common across engineering blogs today (e.g., “The Bug Hunt,” “How We Built It,” “Lessons Learned,” “We Rewrote It in X,” “Thoughts on Trends,” etc.) – with analysis of real-world examples and specific dos/don’ts for each pattern. There's a section on moving from blogging into opportunities such as article writing, conference speaking, and book writing. Finally, we leave you with a lighthearted look at generative AI uses and abuses for blog writing.
 
-Oh...and there's also a foreword by Bryan Cantrill and an afterword by Scott Hanselsman!  
+Oh...and there's also a foreword by Bryan Cantrill and an afterword by Scott Hanselman!  
 
 ## About this repo 
 This repository aggregates links to all the blog posts and other references we mention in the book. And as we create or encounter related writing resources, we'll add them here too. 
