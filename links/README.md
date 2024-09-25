@@ -35,7 +35,12 @@ This file provides a handy guide to all the blog posts and other resources we me
 - [How We Built Scalable Spatial Data and Spatial Indexing in CockroachDB](https://www.cockroachlabs.com/blog/how-we-built-spatial-indexing/) by Sumeer Bhola
 - [Ship Shape](https://www.canva.dev/blog/engineering/ship-shape/) by Kerry Halupka and Rowan Katekar
 
-### The "Lessons Learned" Pattern
+### The "Lessons Learned" Pattern (Chapter 11)
+- [25% or 6 to 4: The 11/6/23 Authentication Outage](https://discord.com/blog/authentication-outage) by Mark Smith
+- [Herding Elephants: Lessons Learned from Sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion) by Garrett Fidalgo
+- [Something You Probably Want to Know About if You're Using SQLite in Golang](https://turso.tech/blog/something-you-probably-want-to-know-about-if-youre-using-sqlite-in-golang-72547ad625f1) by Piotr Jastrzębski
+- [Lessons Learned Scaling PostgreSQL Database to 1.2bn Records/Month](https://gajus.medium.com/lessons-learned-scaling-postgresql-database-to-1-2bn-records-month-edc5449b3067) by Gajus Kuizinas
+- [Lessons from Stripe](https://markmcgranaghan.com/lessons-from-stripe) by Mark McGranaghan
 
 ### The "Thoughts on Trends" Pattern
 
@@ -80,7 +85,7 @@ This file provides a handy guide to all the blog posts and other resources we me
 - [A comment in the Alexandru Ene post made Piotr think of this comic](https://xkcd.com/1172/)
 
 ### Chapter 11
-
+N/A
 
 ### Chapter 12
 
