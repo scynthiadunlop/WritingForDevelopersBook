@@ -100,8 +100,8 @@ N/A
 - [“Is Something Bugging You?” by Will Wilson](https://antithesis.com/blog/is_something_bugging_you/)
 - [“Dumpster Diving the Go Garbage Collector” by Natalie Serrino](https://blog.px.dev/go-garbage-collector/)
 - [“Lies We Tell Ourselves to Keep Using Golang” Amos Wenger](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
--[Bo Ingram's blog post, "How Discord stores trillions of messages"](https://discord.com/blog/how-discord-stores-trillions-of-messages]
--[Phil Eaton and Joran Dirk Greef's blog post, "We Put a Distributed Database In the Browser – And Made a Game of It!](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser)
+- [Bo Ingram's blog post, "How Discord stores trillions of messages"](https://discord.com/blog/how-discord-stores-trillions-of-messages)
+- [Phil Eaton and Joran Dirk Greef's blog post, "We Put a Distributed Database In the Browser – And Made a Game of It!](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser)
 
 ### Chapter 6
 
