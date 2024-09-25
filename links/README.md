@@ -23,12 +23,17 @@ This file provides a handy guide to all the blog posts and other resources we me
 
 ### The "We Rewrote It in X" Pattern (Chapter 9)
 - [Why I Rewrote My Rust Keyboard Firmware in Zig: Consistency, Mastery, and Fun](https://kevinlynagh.com/rust-zig/) by Kevin Lynagh
-- [How Turborepo is Porting from Go to Rust](https://vercel.com/blog/how-turborepo-is-porting-from-go-to-rust) by Nicholas Yang, Anthony Shew
+- [How Turborepo is Porting from Go to Rust](https://vercel.com/blog/how-turborepo-is-porting-from-go-to-rust) by Nicholas Yang and Anthony Shew
 - [Why Discord Is Switching From Go to Rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust) by Jesse Howarth
 - [From Zero to 10 Million Lines of Kotlin](https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/) by Omer Strulovich
 - [Why We at $FAMOUS_COMPANY Switched to $HYPED_TECHNOLOGY](https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology) by Saagar Jha
 
-### The "How We Built It" Pattern
+### The "How We Built It" Pattern (Chapter 10)
+- [How Prime Video Updates its App for More Than 8,000 Device Types](https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types) by Alexandru Ene
+- [Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm) by The Twitter Team
+- [How We Built Notification Rate Limiter for Eight Billion Notifications Per Day for 400 Million Monthly Active Users](https://sharechat.com/blogs/engineering/how-we-built-notification-rate-limiter-for-eight-billion-notifications-per-day-for-400-million) by Akshit Verma and Ayush Gupta
+- [How We Built Scalable Spatial Data and Spatial Indexing in CockroachDB](https://www.cockroachlabs.com/blog/how-we-built-spatial-indexing/) by Sumeer Bhola
+- [Ship Shape](https://www.canva.dev/blog/engineering/ship-shape/) by Kerry Halupka and Rowan Katekar
 
 ### The "Lessons Learned" Pattern
 
@@ -71,8 +76,11 @@ This file provides a handy guide to all the blog posts and other resources we me
      - [Another bunch of their own open-source helper tools](https://github.com/fbsamples/kotlin_ast_tools)
 
 ### Chapter 10
+- [Pointing out a bug in the academic paper that the implementation was based on](https://glaubercosta-11125.medium.com/career-advice-for-young-system-programmers-c7443f2d3edf)
+- [A comment in the Alexandru Ene post made Piotr think of this comic](https://xkcd.com/1172/)
 
 ### Chapter 11
+
 
 ### Chapter 12
 
