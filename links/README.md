@@ -94,14 +94,14 @@ N/A
 ### Chapter 5
 - [Gwen Shapira's blog post, “Transaction Isolation in Postgres, explained”](https://www.thenile.dev/blog/transaction-isolation-postgres)
 - [Liz Fong-Jones’s blog post, “Scaling Kafka at Honeycomb”](https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines)
-- [Paul Brians’ site, "Common Errors in English Usage"](https://brians.wsu.edu/common-errors/)
+- [Paul Brians’s site, "Common Errors in English Usage"](https://brians.wsu.edu/common-errors/)
 - [“Moore's Scofflaws” by Bryan Cantrill](https://oxide.computer/blog/moores-scofflaws)
 - [“Ship Shape” by Kerry Halupka and Rowan Katekar](https://www.canva.dev/blog/engineering/ship-shape/)
 - [“Is Something Bugging You?” by Will Wilson](https://antithesis.com/blog/is_something_bugging_you/)
 - [“Dumpster Diving the Go Garbage Collector” by Natalie Serrino](https://blog.px.dev/go-garbage-collector/)
 - [“Lies We Tell Ourselves to Keep Using Golang” Amos Wenger](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 - [Bo Ingram's blog post, "How Discord stores trillions of messages"](https://discord.com/blog/how-discord-stores-trillions-of-messages)
-- [Phil Eaton and Joran Dirk Greef's blog post, "We Put a Distributed Database In the Browser – And Made a Game of It!](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser)
+- [Phil Eaton and Joran Dirk Greef's blog post, "We Put a Distributed Database In the Browser – And Made a Game of It!"](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser)
 
 ### Chapter 6
 N/A
