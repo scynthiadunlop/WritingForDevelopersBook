@@ -68,7 +68,7 @@ This file provides a handy guide to all the blog posts and other resources we me
 
 ### Foreword by Bryan Cantrill
 - [Pat Helland, Tribute to Honor Jim Gray, May 31st, 2008](https://www.youtube.com/watch?v=a9ZUz3DoZPc#t=37m51s)
-- [Bryan's blog post on the tribute](https://bcantrill.dtrace.org/2008/05/31/a-tribute-to-jim-gray/)
+- [Bryan's post on the tribute](https://bcantrill.dtrace.org/2008/05/31/a-tribute-to-jim-gray/)
 
 ### Chapter 1
  - [Scott Hanselman's post, “Do they deserve the gift of your keystrokes?”](https://www.hanselman.com/blog/do-they-deserve-the-gift-of-your-keystrokes)
@@ -88,20 +88,20 @@ N/A
 - [Sam Rose's blog](https://samwho.dev/)
 
 ### Chapter 4
-- [Loris Cro’s blog post, “Cross-compile a C/C++ Project with Zig”](https://zig.news/kristoff/cross-compile-a-c-c-project-with-zig-3599)
+- [Loris Cro’s post, “Cross-compile a C/C++ Project with Zig”](https://zig.news/kristoff/cross-compile-a-c-c-project-with-zig-3599)
 - [Reddit post, “How does zig magically cross compile without target shared libraries”](https://www.reddit.com/r/Zig/comments/tt7irl/how_does_zig_magically_cross_compile_without/)
 
 ### Chapter 5
-- [Gwen Shapira's blog post, “Transaction Isolation in Postgres, explained”](https://www.thenile.dev/blog/transaction-isolation-postgres)
-- [Liz Fong-Jones’s blog post, “Scaling Kafka at Honeycomb”](https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines)
+- [Gwen Shapira's post, “Transaction Isolation in Postgres, explained”](https://www.thenile.dev/blog/transaction-isolation-postgres)
+- [Liz Fong-Jones’s post, “Scaling Kafka at Honeycomb”](https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines)
 - [Paul Brians’s site, "Common Errors in English Usage"](https://brians.wsu.edu/common-errors/)
-- [Bryan Cantrill blog post, “Moore's Scofflaws”](https://oxide.computer/blog/moores-scofflaws)
-- [Kerry Halupka and Rowan Katekar's blog post, “Ship Shape”](https://www.canva.dev/blog/engineering/ship-shape/)
-- [Will Wilson's blog post, “Is Something Bugging You?”](https://antithesis.com/blog/is_something_bugging_you/)
-- [Natalie Serrino's blog post, “Dumpster Diving the Go Garbage Collector”](https://blog.px.dev/go-garbage-collector/)
-- [Amos Wenger's blog post, “Lies We Tell Ourselves to Keep Using Golang”](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
-- [Bo Ingram's blog post, "How Discord stores trillions of messages"](https://discord.com/blog/how-discord-stores-trillions-of-messages)
-- [Phil Eaton and Joran Dirk Greef's blog post, "We Put a Distributed Database In the Browser – And Made a Game of It!"](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser)
+- [Bryan Cantrill's post, “Moore's Scofflaws”](https://oxide.computer/blog/moores-scofflaws)
+- [Kerry Halupka and Rowan Katekar's post, “Ship Shape”](https://www.canva.dev/blog/engineering/ship-shape/)
+- [Will Wilson's post, “Is Something Bugging You?”](https://antithesis.com/blog/is_something_bugging_you/)
+- [Natalie Serrino's post, “Dumpster Diving the Go Garbage Collector”](https://blog.px.dev/go-garbage-collector/)
+- [Amos Wenger's post, “Lies We Tell Ourselves to Keep Using Golang”](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
+- [Bo Ingram's post, "How Discord stores trillions of messages"](https://discord.com/blog/how-discord-stores-trillions-of-messages)
+- [Phil Eaton and Joran Dirk Greef's post, "We Put a Distributed Database In the Browser – And Made a Game of It!"](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser)
 
 ### Chapter 6
 N/A
@@ -145,7 +145,7 @@ N/A
 
 ### Chapter 14
  - [The project referenced in Bryan Cantrill's blog](https://github.com/TritonDataCenter/statemap)
- - [Jack Vanlightly’s response to the featured Redpanda blog post](https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up)
+ - [Jack Vanlightly’s response to the featured Redpanda post](https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up)
  - [Alex Kladov's experiment, proving that bounds checks effectively prevent the compiler from auto-vectorization](https://github.com/matklad/bounds-check-cost)
    
 ### Chapter 15
@@ -156,16 +156,16 @@ N/A
   
 ### Chapter 16
 - [TechYaks, a ranking-driven list of classic tech talks](https://techyaks.com/)
-- [Brendan O'Leary's blog post, “What makes a great tech talk?”](https://about.gitlab.com/blog/2022/10/04/what-makes-a-great-tech-talk/)  
+- [Brendan O'Leary's post, “What makes a great tech talk?”](https://about.gitlab.com/blog/2022/10/04/what-makes-a-great-tech-talk/)  
 
 ### Chapter 17
- - [Martin Kleppmann's blog post, "Writing a book: is it worth it?"](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html)
-- [Will Larson's blog post, “Self-publishing Staff Engineer”](https://lethain.com/self-publishing-staff-engineer/)
+ - [Martin Kleppmann's post, "Writing a book: is it worth it?"](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html)
+- [Will Larson's post, “Self-publishing Staff Engineer”](https://lethain.com/self-publishing-staff-engineer/)
 - [“Joel On Software" by Joel Spolsky](https://www.joelonsoftware.com/buy-the-books/) based on https://www.joelonsoftware.com/
 - ["The Old New Thing" by Raymond Chen](https://www.amazon.com/Old-New-Thing-Development-Throughout/dp/0321440307) based on https://devblogs.microsoft.com/oldnewthing/  
-- [Will Larson's blog post, “What I Learned Writing a Book”](https://lethain.com/learned-writing-book/)
-- [Will Larson's blog post, “More (self-)publishing thoughts”](https://lethain.com/more-publshing-thoughts/)
-- [Gregor Hohpe’s blog post  “The Economics of Writing Technical Books”](https://architectelevator.com/strategy/book-author-economics/)
+- [Will Larson's post, “What I Learned Writing a Book”](https://lethain.com/learned-writing-book/)
+- [Will Larson's post, “More (self-)publishing thoughts”](https://lethain.com/more-publshing-thoughts/)
+- [Gregor Hohpe’s post  “The Economics of Writing Technical Books”](https://architectelevator.com/strategy/book-author-economics/)
 - [Rob Fitzpatrick’s book, Write Useful Books](https://www.usefulbooks.com/) 
 
 ### Appendix A
