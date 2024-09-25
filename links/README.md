@@ -7,7 +7,13 @@ This file provides a handy guide to all the blog posts and other resources we me
 - [Writing Resources Beyond the Book](#writing-resources-beyond-the-book)
 ## Featured Blog Posts
 
-### Captivating Readers
+### Captivating Readers (Chapter 3)
+- ["A Search Engine in 80 Lines of Python"](https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html) by Alex Molas
+- [Async Rust is a Bad Language](https://bitbashing.io/async-rust.html) by Matt Kline
+- [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html) by Anthony Shaw
+- [I Have Written a JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/) by Andrea Bergia
+- [The Return of the Frame Pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html) by Brendan Gregg
+
 
 ### The "Bug Hunt" Pattern
 
@@ -30,6 +36,9 @@ This file provides a handy guide to all the blog posts and other resources we me
 ### Chapter 2
 
 ### Chapter 3
+- [Hacker News insights on articles per day](https://news.ycombinator.com/item?id=33454140)
+- [Bartosz Ciechanowski’s blog](https://ciechanow.ski/)
+- [Sam Rose's blog](https://samwho.dev/)
 
 ### Chapter 4
 
