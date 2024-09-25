@@ -8,7 +8,7 @@ This file provides a handy guide to all the blog posts and other resources we me
 ## Featured Blog Posts
 
 ### Captivating Readers (Chapter 3)
-- ["A Search Engine in 80 Lines of Python"](https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html) by Alex Molas
+- [A Search Engine in 80 Lines of Python](https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html) by Alex Molas
 - [Async Rust is a Bad Language](https://bitbashing.io/async-rust.html) by Matt Kline
 - [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html) by Anthony Shaw
 - [I Have Written a JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/) by Andrea Bergia
@@ -42,13 +42,33 @@ This file provides a handy guide to all the blog posts and other resources we me
 - [Lessons Learned Scaling PostgreSQL Database to 1.2bn Records/Month](https://gajus.medium.com/lessons-learned-scaling-postgresql-database-to-1-2bn-records-month-edc5449b3067) by Gajus Kuizinas
 - [Lessons from Stripe](https://markmcgranaghan.com/lessons-from-stripe) by Mark McGranaghan
 
-### The "Thoughts on Trends" Pattern
+### The "Thoughts on Trends" Pattern (Chapter 12)
+- [I Want Off Mr. Golang's Wild Ride](https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride) by Amos Wenger
+- [How to Think About WebAssembly (Amid the Hype)](https://www.fermyon.com/blog/how-to-think-about-wasm) by Matt Butcher
+- [Rust After the Honeymoon](https://bcantrill.dtrace.org/2020/10/11/rust-after-the-honeymoon/) by Bryan Cantrill
+- [Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/) by Gergely Orosz
+- [How io_uring and eBPF Will Revolutionize Programming in Linux](https://thenewstack.io/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/) by Glauber Costa
 
-### The "Non-Markety Product Perspective" Pattern
+### The "Non-Markety Product Perspective" Pattern (Chapter 13)
+- [We Put a Distributed Database in a Browser](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser) by Phil Eaton, Joran Dirk Greef
+- [32 Bit Real Estate](https://fly.io/blog/32-bit-real-estate/) by Kurt Mackey
+- [System Dependencies Are Hard (So We Made Them Easier)](https://blog.axo.dev/2023/10/dependencies) by Misty De Méo
+- [Why `fsync()`: Losing Unsynced Data on a Single Node Leads to Global Data Loss](https://redpanda.com/blog/why-fsync-is-needed-for-data-safety-in-kafka-or-non-byzantine-protocols) by Denis Rystsov and Alexander Gallego
+-  [So You Think You Want to Write a Deterministic Hypervisor?](https://antithesis.com/blog/deterministic_hypervisor/) by Alex Pshenichkin
 
-### The "Benchmarks and Test Results" Pattern
+### The "Benchmarks and Test Results" Pattern (Chapter 14)
+- [AWS Graviton2: Arm Brings Better Price-Performance than Intel](https://www.scylladb.com/2021/09/16/aws-graviton2-arm-brings-better-price-performance-than-intel/) by Michał Chojnowski
+- [The Relative Performance of C and Rust](https://bcantrill.dtrace.org/2018/09/28/the-relative-performance-of-c-and-rust/) by Bryan Cantrill
+- [Redpanda vs. Kafka: A Performance Comparison](https://redpanda.com/blog/redpanda-vs-kafka-performance-benchmark) by Tristan Stevens
+- [The Effect of Switching to TCMalloc on RocksDB Memory Use](https://blog.cloudflare.com/the-effect-of-switching-to-tcmalloc-on-rocksdb-memory-use/) by Dmitry Vorobev
+- [How Much Does Rust's Bounds Checking Actually Cost?](https://blog.readyset.io/bounds-checks/) by Alana Marzoev
+
 
 ## Other In-Book References
+
+### Foreword by Bryan Cantrill
+- [Pat Helland, Tribute to Honor Jim Gray, May 31st, 2008](https://www.youtube.com/watch?v=a9ZUz3DoZPc#t=37m51s)
+- [Bryan's blog post on the tribute](https://bcantrill.dtrace.org/2008/05/31/a-tribute-to-jim-gray/)
 
 ### Chapter 1
 
@@ -92,7 +112,10 @@ N/A
 ### Chapter 13
 
 ### Chapter 14
-
+ - [The project referenced in Bryan Cantrill's blog](https://github.com/TritonDataCenter/statemap)
+ - [Jack Vanlightly’s response to the featured Redpanda blog post](https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up)
+ - [Alex Kladov's experiment, proving that bounds checks effectively prevent the compiler from auto-vectorization](https://github.com/matklad/bounds-check-cost)
+   
 ### Chapter 15
 
 ### Chapter 16
@@ -102,6 +125,9 @@ N/A
 ### Appendix A
 
 ### Appendix B
+
+### Afterword by Scott Hanselman
+N/A
 
 ## Writing Resources Beyond the Book
 - [Scramble](https://github.com/zlwaterfield/scramble): An open source Grammarly alternative.
