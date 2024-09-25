@@ -14,8 +14,14 @@ This file provides a handy guide to all the blog posts and other resources we me
 - [I Have Written a JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/) by Andrea Bergia
 - [The Return of the Frame Pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html) by Brendan Gregg
 
+### The "Bug Hunt" Pattern (Chapter 8)
+- [Hunting a NUMA Performance Bug](https://www.scylladb.com/2021/09/28/hunting-a-numa-performance-bug/) by Michał Chojnowski
+- [Why Is My Rust Build So Slow?](https://fasterthanli.me/articles/why-is-my-rust-build-so-slow) by Amos Wenger
+- [How a Single Line of Code Made a 24-core Server Slower Than a Laptop](https://pkolaczk.github.io/server-slower-than-a-laptop/) by Piotr Kołaczkowski
+- [Lessons from Debugging a Tricky Direct Memory Leak](https://medium.com/pinterest-engineering/lessons-from-debugging-a-tricky-direct-memory-leak-f638c722d9f2) by Sanchay Javeria
+- [ZFS Is Mysteriously Eating My CPU](https://www.brendangregg.com/blog/2021-09-06/zfs-is-mysteriously-eating-my-cpu.html) by Brendan Gregg
 
-### The "Bug Hunt" Pattern
+
 
 ### The "We Rewrote It in X" Pattern
 
@@ -25,7 +31,7 @@ This file provides a handy guide to all the blog posts and other resources we me
 
 ### The "Thoughts on Trends" Pattern
 
-### The "Non-Marekty Product Perspective" Pattern
+### The "Non-Markety Product Perspective" Pattern
 
 ### The "Benchmarks and Test Results" Pattern
 
@@ -49,6 +55,7 @@ This file provides a handy guide to all the blog posts and other resources we me
 ### Chapter 7
 
 ### Chapter 8
+ - [Interactive flamegraph](https://scyllabook.sarna.dev/perf/fg-before.svg)
 
 ### Chapter 9
 
