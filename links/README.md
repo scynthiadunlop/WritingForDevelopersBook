@@ -1,4 +1,5 @@
 # Links 
+
 This file provides a handy guide to all the blog posts and other resources we mention in the book chapters. We're also using it to share cool writing resources that we discovered since the book went to press. 
 
 - [Featured Blog Posts](#featured-blog-posts)
