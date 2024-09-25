@@ -239,6 +239,7 @@ N/A
  - [Stackblitz](https://stackblitz.com/)
    
 ### Appendix B
+- [Piotr's prehistoric blog, “Enhancements to ScyllaDB’s Filtering Implementation”](https://www.scylladb.com/2018/08/16/upcoming-enhancements-filtering-implementation/)
 
 ### Afterword by Scott Hanselman
 N/A
