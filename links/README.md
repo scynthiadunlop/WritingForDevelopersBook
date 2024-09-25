@@ -214,6 +214,30 @@ N/A
 - [IngramSpark](https://www.ingramspark.com/)
 - [Leanpub](https://leanpub.com/create/book) 
 
+#### Writing and editing tools
+ - [Grammarly](https://app.grammarly.com/)
+ - [Vale](https://vale.sh/)
+ - [LanguageTool](https://languagetool.org/dev)
+ - [Hemingway](https://hemingwayapp.com/)
+ - [WordHippo](https://www.wordhippo.com/)
+ - [Power Thesaurus](https://www.powerthesaurus.org/)
+
+#### Visualization tools
+ - [Draw.io](https://www.drawio.com/)
+ - [Excalidraw](https://excalidraw.com/)
+ - [Figma](https://www.figma.com/)
+ - [Lucidchart](https://www.lucidchart.com/)
+ - [Miro](https://miro.com/)
+
+#### Code display tools
+ - [Asciicinema](https://asciinema.org/)
+ - [Codapi](https://antonz.org/code-examples)
+ - [Gist](https://gist.github.com/)
+ - [Prism.js](https://prismjs.com/)
+ - [Sandpack](https://sandpack.codesandbox.io/)
+ - [Snappify](https://snappify.com/)
+ - [Stackblitz](https://stackblitz.com/)
+   
 ### Appendix B
 
 ### Afterword by Scott Hanselman
