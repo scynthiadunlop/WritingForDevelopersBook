@@ -21,9 +21,12 @@ This file provides a handy guide to all the blog posts and other resources we me
 - [Lessons from Debugging a Tricky Direct Memory Leak](https://medium.com/pinterest-engineering/lessons-from-debugging-a-tricky-direct-memory-leak-f638c722d9f2) by Sanchay Javeria
 - [ZFS Is Mysteriously Eating My CPU](https://www.brendangregg.com/blog/2021-09-06/zfs-is-mysteriously-eating-my-cpu.html) by Brendan Gregg
 
-
-
-### The "We Rewrote It in X" Pattern
+### The "We Rewrote It in X" Pattern (Chapter 9)
+- [Why I Rewrote My Rust Keyboard Firmware in Zig: Consistency, Mastery, and Fun](https://kevinlynagh.com/rust-zig/) by Kevin Lynagh
+- [How Turborepo is Porting from Go to Rust](https://vercel.com/blog/how-turborepo-is-porting-from-go-to-rust) by Nicholas Yang, Anthony Shew
+- [Why Discord Is Switching From Go to Rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust) by Jesse Howarth
+- [From Zero to 10 Million Lines of Kotlin](https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/) by Omer Strulovich
+- [Why We at $FAMOUS_COMPANY Switched to $HYPED_TECHNOLOGY](https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology) by Saagar Jha
 
 ### The "How We Built It" Pattern
 
@@ -58,6 +61,14 @@ This file provides a handy guide to all the blog posts and other resources we me
  - [Interactive flamegraph](https://scyllabook.sarna.dev/perf/fg-before.svg)
 
 ### Chapter 9
+ - [Related posts in the Lynagh example](https://www.scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/)
+ - [Link to a GitHub issue in the Yang, Shew example](https://github.com/golang/go/issues/13492)
+ - [Link a rationale for the Go rewrite in the Howarth example](https://pkg.go.dev/runtime/debug#SetGCPercent)
+- An abundance of links in the Strulovich example:
+     - [Reference to a presentation about issues with Kotlin (new language)](https://www.droidcon.com/2021/11/17/kotlin-adoption-at-scale/)
+     - [Reference to their own fix of a related open-source tool](https://github.com/pygments/pygments/pull/1699)
+     - [Their own open-source helper tool](https://github.com/facebook/ktfmt)
+     - [Another bunch of their own open-source helper tools](https://github.com/fbsamples/kotlin_ast_tools)
 
 ### Chapter 10
 
