@@ -80,7 +80,8 @@ This file provides a handy guide to all the blog posts and other resources we me
 
 
 ### Chapter 2
-N/A
+- [The Pragmatic Engineer newsletter](https://newsletter.pragmaticengineer.com/)
+- [Tidy First newsletter](https://tidyfirst.substack.com/)
 
 ### Chapter 3
 - [Hacker News insights on articles per day](https://news.ycombinator.com/item?id=33454140)
