@@ -1,6 +1,6 @@
 # Writing For Developers: Blogs That Get Read
+<img src="https://cdn1.bookmanager.com/i/m.php?b=zkGXEJ3sRWjNFuHOi43MNA&cb=1726413722" align="right" width="200"/>
 
-<img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781633436282/writing-for-developers-9781633436282.jpg" align="right"/>
 
 **Update:** The book is now complete! It's currently in the production phase, and heading off to the printers soon. You can purchase it from [Amazon](https://www.amazon.com/Writing-Developers-Blogs-that-read/dp/1633436284/ref=sr_1_1?crid=2QWJZGPI5YDV2&dib=eyJ2IjoiMSJ9.n4PTUEfL33sdEnpF9gpHW6kR5nFOW353nRfYqeMhONcPGxPAOJpxntbJV0ct8wDS8Q8gTMHJAK5F455GQA4Ya_tx5IOigXJc4PwXI2jjCZA.BDsekcICCo54-1vnKf_ryO3NVJj94UEeTVJfCvlQH0c&dib_tag=se&keywords=piotr+sarna&qid=1727152523&sprefix=piotr+sarna%2Caps%2C447&sr=8-1) or [Manning](https://www.manning.com/books/writing-for-developers?utm_source=dunlop&utm_medium=affiliate&utm_campaign=book_dunlop_writing_5_16_24&a_aid=dunlop&a_bid=33a8dae6&chan=mm_twitter&). 
 
