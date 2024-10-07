@@ -16,7 +16,7 @@ You can [preview the chapters on the Manning site](https://livebook.manning.com/
 
 ## About This Repo 
 This repository aggregates links to all the blog posts and other references we mention in the book. And as we create or encounter related writing resources, we'll add them here too. 
-- [Links from the book](/links/README.md)
+- [Links from the book](/links/booklinks.md)
 - [Errata](/errata/README.md)
 
 ## Write That Blog!
