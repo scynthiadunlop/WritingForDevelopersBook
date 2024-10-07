@@ -79,7 +79,6 @@ This file provides a handy guide to all the blog posts and other resources we me
 - [Sam Rose's post, "Memory Allocation"](https://samwho.dev/memory-allocation/)
 - [Sam Rose's post, "Load Balancing'](https://samwho.dev/load-balancing/)
 
-
 ### Chapter 2
 - [The Pragmatic Engineer newsletter](https://newsletter.pragmaticengineer.com/)
 - [Tidy First newsletter](https://tidyfirst.substack.com/)
@@ -104,6 +103,7 @@ This file provides a handy guide to all the blog posts and other resources we me
 - [Amos Wenger's post, “Lies We Tell Ourselves to Keep Using Golang”](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 - [Bo Ingram's post, "How Discord stores trillions of messages"](https://discord.com/blog/how-discord-stores-trillions-of-messages)
 - [Phil Eaton and Joran Dirk Greef's post, "We Put a Distributed Database In the Browser – And Made a Game of It!"](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser)
+- [A Writer's Reference by Diana Hacker and Nancy Sommers](https://store.macmillanlearning.com/us/product/A-Writers-Reference/p/1319169406)
 
 ### Chapter 6
 N/A
