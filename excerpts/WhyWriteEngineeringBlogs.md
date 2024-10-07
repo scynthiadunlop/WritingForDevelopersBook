@@ -76,5 +76,5 @@ With each post you write, the next one becomes easier and more natural, like ano
 Regular writing sessions provide an opportunity to enhance language skills in the context of your work. This is especially valuable for non-native English speakers. You’ll be forced to think hard about vocabulary (both technical and non-technical), grammar, and overall proficiency. It's a great exercise, especially in the age of automatic grammar-checking software and all kinds of tools for finding synonyms, antonyms, and all the other -nyms. Rather than mechanically accepting suggestions, you learn as you go! 
 ### Engineering
 Writing a blog post creates internal pressure to verify all the information you're about to publish under your name. It compels you to research the topic, double-check that the code snippets are sensible and correct, and browse the Internet for similar articles. And that's great! It is motivation to learn in its purest form – because if you don't do it, you may make a fool of yourself online. You usually won't, of course, but try and explain that to your impostor syndrome. 
-
+...
 
