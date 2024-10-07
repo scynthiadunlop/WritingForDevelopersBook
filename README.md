@@ -17,7 +17,7 @@ You can [preview the chapters on the Manning site](https://livebook.manning.com/
 ## About This Repo 
 This repository aggregates links to all the blog posts and other references we mention in the book. And as we create or encounter related writing resources, we'll add them here too. 
 - [Links from the book](/links/booklinks.md)
-- [Errata](/errata/README.md)
+- [Errata](/errata/errata.md)
 
 ## Write That Blog!
 As a not-so-subtle hint to our readers, we created https://writethat.blog. We’ll be continuously updating this site with interesting engineering blog posts, including Piotr’s pundit commentary.
