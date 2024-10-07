@@ -1,10 +1,12 @@
 # The “Bug Hunt” Blog Post Pattern
 
-The following text is an excerpt from Chapter 8
+*The following text is an excerpt from Chapter 8*
 
 Just like different programming languages have different conventions, so do different types of blog posts. A captivating bug hunt article will vary dramatically from an opinion piece roasting a highly hyped technology…or an article that shares how a team implemented an industry-changing algorithm. Part 3 of this book involves in-depth analysis of these and other blog post “patterns” – exploring real-world examples, characteristics, and dos/don’ts for each. 
 
 The “Bug Hunt” blog post pattern is the programming world’s equivalent of a detective story. It has a theme, a main plot, side plots, a protagonist (you), an antagonist (usually also you, having introduced the bug two weeks ago in the first place). It's captivating, keeps readers in suspense, and ends with a satisfying plot twist, or a tactical cliffhanger. And the best part is…it's even more fun to write than to read!
+
+![Bug Hunt ](CH8_F00.png)
 
 ## Purpose
 Writing a bug hunting article serves a few purposes, depending on the success of the hunt, where the fault ultimately fell, and a few other factors. Let's tackle the potential purposes one by one.
@@ -65,7 +67,7 @@ Compared to an average technical blog post, this one is a hog – in a purely po
 This is a positive trait because it makes the article stand out. Many tech articles try to squeeze as much information as possible into 4 to 6 minutes of reading. And that’s fair, considering the average attention span of a human being raised on smartphones rather than playing outside all day with occasional cartoon breaks. Yet, a long article will appeal to the old school folks who were once capable of reading a book in a single sitting. 
 
 The article has a unique style featuring the author's alter ego, Cool Bear, who regularly adds short humorous comments – keeping the reader engaged throughout the (lengthy) reading process. 
-
+![Coolbear](CH8_F01.png)
 *This article highlights insights from the author’s alter ego, Cool Bear – sometimes in dialog with the author’s own interior monologue.*
 
 This type of a bug hunting blog post also serves as an encyclopedia of techniques for debugging the Rust compiler. I have it bookmarked, just in case I ever need to refresh my knowledge of how to measure linking times in my projects. The conclusion is also quite unconventional: instead of building tension and finally presenting readers with a surprise solution, it's simply an honest summary with encouragement to reach out.
@@ -100,4 +102,4 @@ The blog post describes a hunt for the cause of mysterious higher-than-expected 
 The title itself is captivating, but then something in the URL jumps out at you: it's by Brendan Gregg, the flame graph inventor! This is a prime example of why personal brand matters so much. When I see “Brendan Gregg,” I immediately assume that the article is interesting … and I wasn't mistaken in the slightest. 
 
 Given Gregg’s expertise, the problem analysis naturally involved flame graphs. The root cause is quite a surprise, and Gregg described it in a very informal and funny manner. The blog post is also very concise: a three-minute read, even if you reserve some time upfront to look at the flame graph screenshots. It clearly shows that you don't need to write thousands of words to squeeze in lots of knowledge, tips, and interesting technical details. 
-
+...
