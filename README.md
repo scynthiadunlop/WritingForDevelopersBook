@@ -23,6 +23,8 @@ This repository aggregates links to all the blog posts and other references we m
 ## Write That Blog!
 As a not-so-subtle hint to our readers, we created https://writethat.blog. We’ll be continuously updating this site with interesting engineering blog posts, including Piotr’s pundit commentary.
 
+Bonus: See how Piotr [built "Write That Blog!" with Turso](https://turso.tech/blog/write-that-blog-with-turso)
+
 ## Reviews
 "In my experience, only a small fraction of developers write long-form (blogs, essays, reflections). Those who do tend to see benefits both on the short and long-run. This book is a missing guide to provide inspiration to get started writing down your thoughts. Getting started is always the most difficult step!" **\- Gergely Orosz, author of The Pragmatic Engineer Newsletter and The Software Engineer's Guidebook**
 
