@@ -45,5 +45,5 @@ As a not-so-subtle hint to our readers, we created https://writethat.blog. We’
 "If you're reading this book, you're already one step ahead, because you understand the best programming language we've ever created is the one you've known since you were four years old." **\-Jeff Atwood, Coding Horror Owner/Writer, Co-founder of Stack Overflow** 
 
 ## Feedback
-Want to share your thoughts on the book? Report errata? Something else? Connect on LinkedIn ([Piotr Sarna](https://www.linkedin.com/in/sarna-dev) | [Cynthia Dunlop](https://www.linkedin.com/in/cynthiadunlop/)) or X ([@sarna_dev](https://x.com/sarna_dev) | [@c_a_dunlop](https://x.com/c_a_dunlop))
+Want to share your thoughts on the book? Report errata? Something else? Connect on LinkedIn ([Piotr Sarna](https://www.linkedin.com/in/sarna-dev) | [Cynthia Dunlop](https://www.linkedin.com/in/cynthiadunlop/)) or X ([@sarna_dev](https://x.com/sarna_dev) | [@c_a_dunlop](https://x.com/c_a_dunlop)).
 
