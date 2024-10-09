@@ -96,6 +96,7 @@ This file provides a handy guide to all the blog posts and other resources we me
 - [Gwen Shapira's post, “Transaction Isolation in Postgres, explained”](https://www.thenile.dev/blog/transaction-isolation-postgres)
 - [Liz Fong-Jones’s post, “Scaling Kafka at Honeycomb”](https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines)
 - [Paul Brians’s site, "Common Errors in English Usage"](https://brians.wsu.edu/common-errors/)
+- [A Writer's Reference by Diana Hacker and Nancy Sommers](https://store.macmillanlearning.com/us/product/A-Writers-Reference/p/1319169406)
 - [Bryan Cantrill's post, “Moore's Scofflaws”](https://oxide.computer/blog/moores-scofflaws)
 - [Kerry Halupka and Rowan Katekar's post, “Ship Shape”](https://www.canva.dev/blog/engineering/ship-shape/)
 - [Will Wilson's post, “Is Something Bugging You?”](https://antithesis.com/blog/is_something_bugging_you/)
@@ -103,7 +104,10 @@ This file provides a handy guide to all the blog posts and other resources we me
 - [Amos Wenger's post, “Lies We Tell Ourselves to Keep Using Golang”](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 - [Bo Ingram's post, "How Discord stores trillions of messages"](https://discord.com/blog/how-discord-stores-trillions-of-messages)
 - [Phil Eaton and Joran Dirk Greef's post, "We Put a Distributed Database In the Browser – And Made a Game of It!"](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser)
-- [A Writer's Reference by Diana Hacker and Nancy Sommers](https://store.macmillanlearning.com/us/product/A-Writers-Reference/p/1319169406)
+- ["Everyday Data Visualization" by Desireé Abbott](https://www.manning.com/books/everyday-data-visualization)
+- ["Fundamentals of Data Visualization" by Claus O. Wilke](https://clauswilke.com/dataviz/)
+- [Books by Edward Tufte](https://www.edwardtufte.com/books/) 
+
 
 ### Chapter 6
 N/A
