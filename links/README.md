@@ -115,6 +115,7 @@ N/A
 ### Chapter 7
 - [Google's Search Essentials](https://developers.google.com/search/docs)
 - [WCAG 2.2 Understanding Docs](https://www.w3.org/WAI/WCAG22/Understanding/)
+- [Google Trends](https://trends.google.com/)
 - [FAQ about Google Trends data](https://support.google.com/trends/answer/4365533?hl=en)
 - [Basics of Google Trends](https://newsinitiative.withgoogle.com/resources/trainings/google-trends/basics-of-google-trends/)
 - [15 Tips for Getting the Most out of Google Trends](https://blog.google/products/search/15-tips-getting-most-out-google-trends/)
