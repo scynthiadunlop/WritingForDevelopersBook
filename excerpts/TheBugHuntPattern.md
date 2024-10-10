@@ -4,7 +4,7 @@
 
 Just like different programming languages have different conventions, so do different types of blog posts. A captivating bug hunt article will vary dramatically from an opinion piece roasting a highly hyped technology…or an article that shares how a team implemented an industry-changing algorithm. Part 3 of this book involves in-depth analysis of these and other blog post “patterns” – exploring real-world examples, characteristics, and dos/don’ts for each. 
 
-The “Bug Hunt” blog post pattern is the programming world’s equivalent of a detective story. It has a theme, a main plot, side plots, a protagonist (you), an antagonist (usually also you, having introduced the bug two weeks ago in the first place). It's captivating, keeps readers in suspense, and ends with a satisfying plot twist, or a tactical cliffhanger. And the best part is…it's even more fun to write than to read!
+The “Bug Hunt” blog post pattern is the programming world’s equivalent of a detective story. It has a theme, a main plot, side plots, a protagonist (you), and an antagonist (usually also you, having introduced the bug two weeks ago in the first place). It's captivating, keeps readers in suspense, and ends with a satisfying plot twist, or a tactical cliffhanger. And the best part is…it's even more fun to write than to read!
 
 ![Bug Hunt ](CH8_F00.png)
 
