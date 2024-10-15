@@ -130,7 +130,7 @@ N/A
 ### Chapter 9
  - [Related posts in the Lynagh example](https://www.scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/)
  - [Link to a GitHub issue in the Yang, Shew example](https://github.com/golang/go/issues/13492)
- - [Link a rationale for the Go rewrite in the Howarth example](https://pkg.go.dev/runtime/debug#SetGCPercent)
+ - [Link to a rationale for the Go rewrite in the Howarth example](https://pkg.go.dev/runtime/debug#SetGCPercent)
 - An abundance of links in the Strulovich example:
      - [A presentation about issues with Kotlin (new language)](https://www.droidcon.com/2021/11/17/kotlin-adoption-at-scale/)
      - [Their own fix of a related open-source tool](https://github.com/pygments/pygments/pull/1699)
