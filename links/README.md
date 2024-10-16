@@ -104,7 +104,7 @@ This file provides a handy guide to all the blog posts and other resources we me
 - [Amos Wenger's post, “Lies We Tell Ourselves to Keep Using Golang”](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 - [Bo Ingram's post, "How Discord stores trillions of messages"](https://discord.com/blog/how-discord-stores-trillions-of-messages)
 - [Phil Eaton and Joran Dirk Greef's post, "We Put a Distributed Database In the Browser – And Made a Game of It!"](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser)
-- ["Everyday Data Visualization" by Desireé Abbott](https://www.manning.com/books/everyday-data-visualization)
+- ["Everyday Data Visualization" by Desireé Abbott](https://www.amazon.com/Everyday-Data-Visualization-effective-dashboards/dp/1633438406)
 - ["Fundamentals of Data Visualization" by Claus O. Wilke](https://clauswilke.com/dataviz/)
 - [Books by Edward Tufte](https://www.edwardtufte.com/books/) 
 
