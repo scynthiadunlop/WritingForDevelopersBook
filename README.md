@@ -44,8 +44,8 @@ Bonus: See how Piotr [built "Write That Blog!" with Turso](https://turso.tech/bl
 
 "Piotr and Cynthia have both been tremendously helpful to me with writing and communicating effectively, and it's so exciting to see their wisdom distilled and shared with the world. If you're writing for developers, the best decision you can make is to read *Writing for Developers*." **\- Bo Ingram, Author of ScyllaDB in Action**  
 
-"If you're reading this book, you're already one step ahead, because you understand the best programming language we've ever created is the one you've known since you were four years old." **\-Jeff Atwood, Coding Horror Owner/Writer, Co-founder of Stack Overflow** 
+"If you're reading this book, you're already one step ahead, because you understand the best programming language we've ever created is the one you've known since you were four years old." **\- Jeff Atwood, Coding Horror Owner/Writer, Co-founder of Stack Overflow** 
 
 ## Feedback
-Want to share your thoughts on the book? Report errata? Something else? Connect on LinkedIn ([Piotr Sarna](https://www.linkedin.com/in/sarna-dev) | [Cynthia Dunlop](https://www.linkedin.com/in/cynthiadunlop/)) or X ([@sarna_dev](https://x.com/sarna_dev) | [@c_a_dunlop](https://x.com/c_a_dunlop)).
+Want to share your thoughts on the book? Report errata? Something else? Connect on LinkedIn ([Piotr Sarna](https://www.linkedin.com/in/sarna-dev) | [Cynthia Dunlop](https://www.linkedin.com/in/cynthiadunlop/)), X ([@sarna_dev](https://x.com/sarna_dev) | [@c_a_dunlop](https://x.com/c_a_dunlop)), or Bluesky [@sarna.dev](https://bsky.app/profile/sarna.dev) | [@cynthiadunlop.bsky.social](https://bsky.app/profile/cynthiadunlop.bsky.social).
 
