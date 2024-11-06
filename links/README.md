@@ -254,3 +254,4 @@ N/A
 ## Writing Resources Beyond the Book
 - [Scramble](https://github.com/zlwaterfield/scramble): An open source Grammarly alternative.
 - [Bullshit remover](https://www.bullshitremover.com/): Paste crap, get truth.
+- [Napkin.ai](https://www.napkin.ai/): Turns your text into visuals. 
