@@ -28,9 +28,9 @@ Bonus: See how Piotr [built "Write That Blog!" with Turso](https://turso.tech/bl
 ## Reviews
 "In my experience, only a small fraction of developers write long-form (blogs, essays, reflections). Those who do tend to see benefits both on the short and long-run. This book is a missing guide to provide inspiration to get started writing down your thoughts. Getting started is always the most difficult step!" **\- Gergely Orosz, author of The Pragmatic Engineer Newsletter and The Software Engineer's Guidebook**
 
-“There is no better way for an engineer to supercharge their growth, develop their career, and make a lasting mark on the world than by writing about their work, yet a very small fraction of us ever do so. This book is full of simple, practical guidance for improving your craft and increasing your impact on the industry. I will be recommending it far and wide.”  **\- Charity Majors, Co-founder and CTO at Honeycomb**
-
 “A great blog can help put your career onto the fast track, and this is the book telling you how. A must-read!” **\- Gunnar Morling, Software Engineer at Decodable**
+
+“There is no better way for an engineer to supercharge their growth, develop their career, and make a lasting mark on the world than by writing about their work, yet a very small fraction of us ever do so. This book is full of simple, practical guidance for improving your craft and increasing your impact on the industry. I will be recommending it far and wide.”  **\- Charity Majors, Co-founder and CTO at Honeycomb**
 
 “Writing is a way to garbage collect your thoughts into a clear narrative, not just for the audience but for the individual.  Most content is noise and boring, and learning to distill the important makes you a clear thinker. It is a grueling process - for me - moving from frustration to eureka, especially if your wife is a literature major. *Writing for Developers* is a down-to-earth manuscript with a punk rock DIY attitude that demystifies the process and helps authors move past the writer’s block that we all face. A fun read to make you a better writer.” **\- Alex Gallego, Founder and CEO of Redpanda** 
 
