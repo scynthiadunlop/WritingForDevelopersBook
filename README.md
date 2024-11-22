@@ -1,5 +1,5 @@
 # Writing For Developers: Blogs That Get Read
-<img src="excerpts/cover_frame.png" align="right" width="200"/>
+<img src="excerpts/cover_frame.png" align="right" width="400"/>
 
 
 **Update:** The book is now off to the printer! You can purchase it from [Amazon](https://www.amazon.com/Writing-Developers-Blogs-that-read/dp/1633436284/ref=sr_1_1?crid=2QWJZGPI5YDV2&dib=eyJ2IjoiMSJ9.n4PTUEfL33sdEnpF9gpHW6kR5nFOW353nRfYqeMhONcPGxPAOJpxntbJV0ct8wDS8Q8gTMHJAK5F455GQA4Ya_tx5IOigXJc4PwXI2jjCZA.BDsekcICCo54-1vnKf_ryO3NVJj94UEeTVJfCvlQH0c&dib_tag=se&keywords=piotr+sarna&qid=1727152523&sprefix=piotr+sarna%2Caps%2C447&sr=8-1) or [Manning](https://www.manning.com/books/writing-for-developers?utm_source=dunlop&utm_medium=affiliate&utm_campaign=book_dunlop_writing_5_16_24&a_aid=dunlop&a_bid=33a8dae6&chan=mm_twitter&). Print copies should ship in December.
