@@ -21,12 +21,15 @@ This repository aggregates links to all the blog posts and other references we m
 - [Errata](/errata/README.md)
 
 ## Write That Blog!
-As a not-so-subtle hint to our readers, we created https://writethat.blog. We’ll be continuously updating this site with interesting engineering blog posts, including Piotr’s pundit commentary. If you want updates via email, [here you go](https://writethatblog.substack.com/)! 
+As a not-so-subtle hint to our readers, we created https://writethat.blog. We’ll be continuously updating this site with interesting engineering blog posts, including Piotr’s pundit commentary. 
 
 Bonus: See how Piotr [built "Write That Blog!" with Turso](https://turso.tech/blog/write-that-blog-with-turso)
 
+If you want monthly Write That Blog! updates via email, [here you go](https://writethatblog.substack.com/)! We'll also use that Substack to share insights from top tech bloggers and new articles on topics from the book.
+
+
 ## Reviews
-"In my experience, only a small fraction of developers write long-form (blogs, essays, reflections). Those who do tend to see benefits both on the short and long-run. This book is a missing guide to provide inspiration to get started writing down your thoughts. Getting started is always the most difficult step!" **\- Gergely Orosz, author of The Pragmatic Engineer Newsletter and The Software Engineer's Guidebook**
+"In my experience, only a small fraction of developers write long-form (blogs, essays, reflections). Those who do tend to see benefits both over the short and long-run. This book is a missing guide to provide inspiration to get started writing down your thoughts. Getting started is always the most difficult step!" **\- Gergely Orosz, author of The Pragmatic Engineer Newsletter and The Software Engineer's Guidebook**
 
 “A great blog can help put your career onto the fast track, and this is the book telling you how. A must-read!” **\- Gunnar Morling, Software Engineer at Decodable**
 
