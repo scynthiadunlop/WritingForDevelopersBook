@@ -13,20 +13,6 @@ Oh...and there's also a **foreword by Bryan Cantrill** and an **afterword by Sco
 
 You can [preview the chapters on the Manning site](https://livebook.manning.com/book/writing-for-developers).
 
-## About This Repo 
-This repository aggregates links to all the blog posts and other references we mention in the book. And as we create or encounter related writing resources, we'll add them here too. 
-- [Links from the book](/links/README.md)
-- [Excerpts from the book](excerpts/README.md)
-- [Errata](/errata/README.md)
-
-## Write That Blog!
-As a not-so-subtle hint to our readers, we created https://writethat.blog. We’ll be continuously updating this site with interesting engineering blog posts, including Piotr’s pundit commentary. 
-
-Bonus: See how Piotr [built "Write That Blog!" with Turso](https://turso.tech/blog/write-that-blog-with-turso)
-
-If you want monthly Write That Blog! updates via email, [here you go](https://writethatblog.substack.com/)! We'll also use that Substack to share insights from top tech bloggers and new articles on topics from the book.
-
-
 ## Reviews
 "In my experience, only a small fraction of developers write long-form (blogs, essays, reflections). Those who do tend to see benefits both over the short and long-run. This book is a missing guide to provide inspiration to get started writing down your thoughts. Getting started is always the most difficult step!" **\- Gergely Orosz, author of The Pragmatic Engineer Newsletter and The Software Engineer's Guidebook**
 
@@ -47,6 +33,22 @@ If you want monthly Write That Blog! updates via email, [here you go](https://wr
 "Piotr and Cynthia have both been tremendously helpful to me with writing and communicating effectively, and it's so exciting to see their wisdom distilled and shared with the world. If you're writing for developers, the best decision you can make is to read *Writing for Developers*." **\- Bo Ingram, Author of ScyllaDB in Action**  
 
 "If you're reading this book, you're already one step ahead, because you understand the best programming language we've ever created is the one you've known since you were four years old." **\- Jeff Atwood, Coding Horror Owner/Writer, Co-founder of Stack Overflow** 
+
+
+## Write That Blog!
+As a not-so-subtle hint to our readers, we created https://writethat.blog. We’ll be continuously updating this site with interesting engineering blog posts, including Piotr’s pundit commentary. 
+
+Bonus: See how Piotr [built "Write That Blog!" with Turso](https://turso.tech/blog/write-that-blog-with-turso)
+
+If you want monthly Write That Blog! updates via email, [here you go](https://writethatblog.substack.com/)! We'll also use that Substack to share insights from top tech bloggers and new articles on topics from the book.
+
+
+## About This Repo 
+This repository aggregates links to all the blog posts and other references we mention in the book. And as we create or encounter related writing resources, we'll add them here too. 
+- [Links from the book](/links/README.md)
+- [Excerpts from the book](excerpts/README.md)
+- [Errata](/errata/README.md)
+
 
 ## Feedback
 Want to share your thoughts on the book? Report errata? Something else? Connect on LinkedIn ([Piotr Sarna](https://www.linkedin.com/in/sarna-dev) | [Cynthia Dunlop](https://www.linkedin.com/in/cynthiadunlop/)), X ([@sarna_dev](https://x.com/sarna_dev) | [@c_a_dunlop](https://x.com/c_a_dunlop)), or Bluesky [@sarna.dev](https://bsky.app/profile/sarna.dev) | [@cynthiadunlop.bsky.social](https://bsky.app/profile/cynthiadunlop.bsky.social).
