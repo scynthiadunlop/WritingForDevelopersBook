@@ -45,8 +45,8 @@ If you want monthly Write That Blog! updates via email, [here you go](https://wr
 
 ## About This Repo 
 This repository aggregates links to all the blog posts and other references we mention in the book. And as we create or encounter related writing resources, we'll add them here too. 
-- [Links from the book](/links/README.md)
-- [Excerpts from the book](excerpts/README.md)
+- [Links](/links/README.md)
+- [Book excerpts](excerpts/README.md)
 - [Errata](/errata/README.md)
 
 
