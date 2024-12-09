@@ -2,7 +2,7 @@
 <img src="excerpts/cover_frame.png" align="right" width="200"/>
 
 
-**Update:** We have an official release date: December 10! You can purchase the book from [Amazon](https://www.amazon.com/Writing-Developers-Blogs-that-read/dp/1633436284) and [Manning](https://www.manning.com/books/writing-for-developers?utm_source=dunlop&utm_medium=affiliate&utm_campaign=book_dunlop_writing_5_16_24&a_aid=dunlop&a_bid=33a8dae6&chan=mm_twitter&). Print copies should ship in December.
+**Update:** We have an official release date: December 10 for print, December 18 for digital! You can purchase the book from [Amazon](https://www.amazon.com/Writing-Developers-Blogs-that-read/dp/1633436284) and [Manning](https://www.manning.com/books/writing-for-developers?utm_source=dunlop&utm_medium=affiliate&utm_campaign=book_dunlop_writing_5_16_24&a_aid=dunlop&a_bid=33a8dae6&chan=mm_twitter&). Print copies should ship in December.
 
 ***
 *Writing For Developers: Blogs That Get Read* is a practical guide to writing more compelling engineering blog posts. 
@@ -13,7 +13,7 @@ Oh...and there's also a **foreword by Bryan Cantrill** and an **afterword by Sco
 
 You can [preview the chapters on the Manning site](https://livebook.manning.com/book/writing-for-developers).
 
-## Reviews
+## Recommendations
 "In my experience, only a small fraction of developers write long-form (blogs, essays, reflections). Those who do tend to see benefits both over the short and long-run. This book is a missing guide to provide inspiration to get started writing down your thoughts. Getting started is always the most difficult step!" **\- Gergely Orosz, author of The Pragmatic Engineer Newsletter and The Software Engineer's Guidebook**
 
 “A great blog can help put your career onto the fast track, and this is the book telling you how. A must-read!” **\- Gunnar Morling, Software Engineer at Decodable**
