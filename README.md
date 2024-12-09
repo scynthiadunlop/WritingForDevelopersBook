@@ -2,7 +2,7 @@
 <img src="excerpts/cover_frame.png" align="right" width="200"/>
 
 
-**Update:** We have an official release date: December 10 for print, December 18 for digital! You can purchase the book from [Amazon](https://www.amazon.com/Writing-Developers-Blogs-that-read/dp/1633436284) and [Manning](https://www.manning.com/books/writing-for-developers?utm_source=dunlop&utm_medium=affiliate&utm_campaign=book_dunlop_writing_5_16_24&a_aid=dunlop&a_bid=33a8dae6&chan=mm_twitter&). Print copies should ship in December.
+**Update:** We have an official release date: December 10 for print and PDF, December 18 for ePub! You can purchase the book from [Amazon](https://www.amazon.com/Writing-Developers-Blogs-that-read/dp/1633436284) and [Manning](https://www.manning.com/books/writing-for-developers?utm_source=dunlop&utm_medium=affiliate&utm_campaign=book_dunlop_writing_5_16_24&a_aid=dunlop&a_bid=33a8dae6&chan=mm_twitter&). Print copies should ship in December.
 
 ***
 *Writing For Developers: Blogs That Get Read* is a practical guide to writing more compelling engineering blog posts. 
