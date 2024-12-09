@@ -73,7 +73,7 @@ This file provides a handy guide to all the blog posts and other resources we me
 
 ### Chapter 1
  - [Scott Hanselman's post, “Do they deserve the gift of your keystrokes?”](https://www.hanselman.com/blog/do-they-deserve-the-gift-of-your-keystrokes)
-    [Gergely Orosz's post, “I removed all affiliate links from my blog: numbers”](https://blog.pragmaticengineer.com/affiliates/)
+ - [Gergely Orosz's post, “I removed all affiliate links from my blog: numbers”](https://blog.pragmaticengineer.com/affiliates/)
  - [Martin Kleppman's post, “Writing a book: is it worth it?”](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html)
  - [Phil Eaton's post, "Is it worth writing about?"](https://notes.eatonphil.com/is-it-worth-writing-about.html)
 - [Sam Rose's post, "Memory Allocation"](https://samwho.dev/memory-allocation/)
@@ -95,7 +95,7 @@ This file provides a handy guide to all the blog posts and other resources we me
 ### Chapter 5
 - [Gwen Shapira's post, “Transaction Isolation in Postgres, explained”](https://www.thenile.dev/blog/transaction-isolation-postgres)
 - [Liz Fong-Jones’s post, “Scaling Kafka at Honeycomb”](https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines)
-- [Paul Brians’s site, "Common Errors in English Usage"](https://brians.wsu.edu/common-errors/)
+- [Paul Brians’ site, "Common Errors in English Usage"](https://brians.wsu.edu/common-errors/)
 - [A Writer's Reference by Diana Hacker and Nancy Sommers](https://store.macmillanlearning.com/us/product/A-Writers-Reference/p/1319169406)
 - [Bryan Cantrill's post, “Moore's Scofflaws”](https://oxide.computer/blog/moores-scofflaws)
 - [Kerry Halupka and Rowan Katekar's post, “Ship Shape”](https://www.canva.dev/blog/engineering/ship-shape/)
