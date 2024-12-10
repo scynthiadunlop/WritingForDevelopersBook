@@ -265,4 +265,5 @@ A few great blogs on blogging
 - [Blog writing for developers](https://rmoff.net/2023/07/19/blog-writing-for-developers/): Robin Moffatt's tips from the DevEx perspective
 - [Phil Eaton's blogs on writing](https://notes.eatonphil.com/tags/writing.html): Phil Eaton's tips on what to write about, what makes a great technical blog, and more
 - [How (some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/): Dan Luu's takeaways after interviewing the people behind a few great blogs (and a few "antipattern" examples who, politely, are not named)
-- [How To Achieve Ultimate Blog Success In One Easy Step](https://blog.codinghorror.com/how-to-achieve-ultimate-blog-success-in-one-easy-step/): Jeff Atwoood's singlemost important piece of advice for blogging 
+- [Becoming a better writer as a software engineer](https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/): Gergely Orosz on the importance of writing, the writing process, and tips for building your writing muscle
+- [How to achieve ultimate blog success in one easy step](https://blog.codinghorror.com/how-to-achieve-ultimate-blog-success-in-one-easy-step/): Jeff Atwoood's singlemost important piece of advice for blogging 
