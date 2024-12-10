@@ -260,7 +260,9 @@ Tools we discovered since going to print
 - [Napkin.ai](https://www.napkin.ai/): Turns your text into visuals. 
 
 ### On Writing
-A few recent blogs on blogging
+A few great blogs on blogging
 - [Blogging through the decades](https://bcantrill.dtrace.org/2024/11/16/blogging-through-the-decades/): Bryan Cantrill reflects on two decades of blogging
 - [Blog writing for developers](https://rmoff.net/2023/07/19/blog-writing-for-developers/): Robin Moffatt's tips from the DevEx perspective
 - [Phil Eaton's blogs on writing](https://notes.eatonphil.com/tags/writing.html): Phil Eaton's tips on what to write about, what makes a great technical blog, and more
+- [How (some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/): Dan Luu's takeaways after interviewing the people behind a few great blogs (and a few "antipattern" examples who, politely, are not named)
+- [How To Achieve Ultimate Blog Success In One Easy Step](https://blog.codinghorror.com/how-to-achieve-ultimate-blog-success-in-one-easy-step/): Jeff Atwoood's singlemost important piece of advice for blogging 
