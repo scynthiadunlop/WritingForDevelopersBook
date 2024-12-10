@@ -51,7 +51,7 @@ This file provides a handy guide to all the blog posts and other resources we me
 - [How io_uring and eBPF Will Revolutionize Programming in Linux](https://thenewstack.io/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/) by Glauber Costa
 
 ### The "Non-Markety Product Perspective" Pattern (Chapter 13)
-- [We Put a Distributed Database in a Browser](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser) by Phil Eaton, Joran Dirk Greef
+- [We Put a Distributed Database in a Browser – and made a game of it!](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser) by Phil Eaton, Joran Dirk Greef
 - [32 Bit Real Estate](https://fly.io/blog/32-bit-real-estate/) by Kurt Mackey
 - [System Dependencies Are Hard (So We Made Them Easier)](https://blog.axo.dev/2023/10/dependencies) by Misty De Méo
 - [Why `fsync()`: Losing Unsynced Data on a Single Node Leads to Global Data Loss](https://redpanda.com/blog/why-fsync-is-needed-for-data-safety-in-kafka-or-non-byzantine-protocols) by Denis Rystsov and Alexander Gallego
@@ -93,17 +93,17 @@ This file provides a handy guide to all the blog posts and other resources we me
 - [Reddit post, “How does zig magically cross compile without target shared libraries”](https://www.reddit.com/r/Zig/comments/tt7irl/how_does_zig_magically_cross_compile_without/)
 
 ### Chapter 5
-- [Gwen Shapira's post, “Transaction Isolation in Postgres, explained”](https://www.thenile.dev/blog/transaction-isolation-postgres)
+- [Gwen Shapira's post, “Transaction isolation in Postgres, explained”](https://www.thenile.dev/blog/transaction-isolation-postgres)
 - [Liz Fong-Jones’s post, “Scaling Kafka at Honeycomb”](https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines)
 - [Paul Brians’ site, "Common Errors in English Usage"](https://brians.wsu.edu/common-errors/)
-- [A Writer's Reference by Diana Hacker and Nancy Sommers](https://store.macmillanlearning.com/us/product/A-Writers-Reference/p/1319169406)
-- [Bryan Cantrill's post, “Moore's Scofflaws”](https://oxide.computer/blog/moores-scofflaws)
-- [Kerry Halupka and Rowan Katekar's post, “Ship Shape”](https://www.canva.dev/blog/engineering/ship-shape/)
-- [Will Wilson's post, “Is Something Bugging You?”](https://antithesis.com/blog/is_something_bugging_you/)
-- [Natalie Serrino's post, “Dumpster Diving the Go Garbage Collector”](https://blog.px.dev/go-garbage-collector/)
-- [Amos Wenger's post, “Lies We Tell Ourselves to Keep Using Golang”](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
+- ["A Writer's Reference" by Diana Hacker and Nancy Sommers](https://store.macmillanlearning.com/us/product/A-Writers-Reference/p/1319169406)
+- [Bryan Cantrill's post, “Moore's scofflaws”](https://oxide.computer/blog/moores-scofflaws)
+- [Kerry Halupka and Rowan Katekar's post, “Ship shape”](https://www.canva.dev/blog/engineering/ship-shape/)
+- [Will Wilson's post, “Is something bugging you?”](https://antithesis.com/blog/is_something_bugging_you/)
+- [Natalie Serrino's post, “Dumpster diving the Go Garbage Collector”](https://blog.px.dev/go-garbage-collector/)
+- [Amos Wenger's post, “Lies we tell ourselves to keep using Golang”](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 - [Bo Ingram's post, "How Discord stores trillions of messages"](https://discord.com/blog/how-discord-stores-trillions-of-messages)
-- [Phil Eaton and Joran Dirk Greef's post, "We Put a Distributed Database In the Browser – And Made a Game of It!"](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser)
+- [Phil Eaton and Joran Dirk Greef's post, "We put a distributed database in the browser – and made a game of it!"](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser)
 - ["Everyday Data Visualization" by Desireé Abbott](https://www.amazon.com/Everyday-Data-Visualization-effective-dashboards/dp/1633438406)
 - ["Fundamentals of Data Visualization" by Claus O. Wilke](https://clauswilke.com/dataviz/)
 - [Books by Edward Tufte](https://www.edwardtufte.com/books/) 
@@ -138,7 +138,7 @@ N/A
      - [Another bunch of their own open-source helper tools](https://github.com/fbsamples/kotlin_ast_tools)
 
 ### Chapter 10
-- [Pointing out a bug in the academic paper that the implementation was based on](https://glaubercosta-11125.medium.com/career-advice-for-young-system-programmers-c7443f2d3edf)
+- [Glauber Costa's reference to Avinash Sajjanshetty (pointing out a bug in the academic paper that the implementation was based on)](https://glaubercosta-11125.medium.com/career-advice-for-young-system-programmers-c7443f2d3edf) 
 - [A comment in the Alexandru Ene post made Piotr think of this comic](https://xkcd.com/1172/)
 
 ### Chapter 11
@@ -163,16 +163,17 @@ N/A
   
 ### Chapter 16
 - [TechYaks, a ranking-driven list of classic tech talks](https://techyaks.com/)
-- [Brendan O'Leary's post, “What makes a great tech talk?”](https://about.gitlab.com/blog/2022/10/04/what-makes-a-great-tech-talk/)  
+- [Brendan O'Leary's post, “What makes a great tech talk?”](https://about.gitlab.com/blog/2022/10/04/what-makes-a-great-tech-talk/)
+- [Gunnar Morling's tweet about giving conference talks](https://x.com/gunnarmorling/status/1796537286550757420)
 
 ### Chapter 17
  - [Martin Kleppmann's post, "Writing a book: is it worth it?"](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html)
 - [Will Larson's post, “Self-publishing Staff Engineer”](https://lethain.com/self-publishing-staff-engineer/)
 - [“Joel On Software" by Joel Spolsky](https://www.joelonsoftware.com/buy-the-books/) based on https://www.joelonsoftware.com/
 - ["The Old New Thing" by Raymond Chen](https://www.amazon.com/Old-New-Thing-Development-Throughout/dp/0321440307) based on https://devblogs.microsoft.com/oldnewthing/  
-- [Will Larson's post, “What I Learned Writing a Book”](https://lethain.com/learned-writing-book/)
+- [Will Larson's post, “What I learned writing a book”](https://lethain.com/learned-writing-book/)
 - [Will Larson's post, “More (self-)publishing thoughts”](https://lethain.com/more-publshing-thoughts/)
-- [Gregor Hohpe’s post  “The Economics of Writing Technical Books”](https://architectelevator.com/strategy/book-author-economics/)
+- [Gregor Hohpe’s post,  “The economics of writing technical books”](https://architectelevator.com/strategy/book-author-economics/)
 - [Rob Fitzpatrick’s book, "Write Useful Books"](https://www.usefulbooks.com/) 
 
 ### Appendix A
@@ -185,20 +186,20 @@ N/A
 - [WordPress.com](https://wordpress.com/)
 - [WordPress.org](https://wordpress.org/)
 - [Code for Alex Morales' clean minimalist blog](https://github.com/alexmolas/alexmolas.github.io)
-- [Jekyll: Step-by-Step Tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/)
-- [Hugo: Quick Start](https://gohugo.io/getting-started/quick-start/)
-- [Gatsby: Getting Started](https://www.gatsbyjs.com/docs/tutorial/getting-started/)
-- [WordPress: Set Up Your Blog in Five Steps](https://wordpress.com/support/five-step-blog-setup/)
-- [Ghost: Getting Started](https://ghost.org/resources/building/)
-- [Medium: Writing and Publishing Your First Story](https://help.medium.com/hc/en-us/articles/225168768-Writing-and-publishing-your-first-story)
-- [Dev.to: Get Started with DEV](https://dev.to/help/getting-started)
-- [Hashnode: Creating a Personal Blog on Hashnode](https://support.hashnode.com/en/articles/6420128-creating-a-personal-blog-on-hashnode)
-- [Substack: Setting up Your Substack for the First Time](https://on.substack.com/p/setting-up-your-substack-for-the) 
+- [Jekyll: Step-by-Step tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/)
+- [Hugo: Quick start](https://gohugo.io/getting-started/quick-start/)
+- [Gatsby: Getting started](https://www.gatsbyjs.com/docs/tutorial/getting-started/)
+- [WordPress: Set up your blog in five steps](https://wordpress.com/support/five-step-blog-setup/)
+- [Ghost: getting started](https://ghost.org/resources/building/)
+- [Medium: Writing and publishing your first story](https://help.medium.com/hc/en-us/articles/225168768-Writing-and-publishing-your-first-story)
+- [Dev.to: Get started with DEV](https://dev.to/help/getting-started)
+- [Hashnode: Creating a personal blog on Hashnode](https://support.hashnode.com/en/articles/6420128-creating-a-personal-blog-on-hashnode)
+- [Substack: Setting up your Substack for the first time](https://on.substack.com/p/setting-up-your-substack-for-the) 
 
 #### Monetization
-- [Gergely Orosz’ “Three Years of Advertising on My Blog: Numbers”](https://blog.pragmaticengineer.com/ads/)
-- [Gergely Orosz’ follow-up article, “I Removed All Affiliate Links from My Blog: Numbers”](https://blog.pragmaticengineer.com/affiliates/)
-- [Dan Luu’s “Blog Monetization”](https://danluu.com/blog-ads/) 
+- [Gergely Orosz’ “Three years of advertising on my blog: numbers”](https://blog.pragmaticengineer.com/ads/)
+- [Gergely Orosz’ follow-up article, “I removed all affiliate links from my blog: numbers”](https://blog.pragmaticengineer.com/affiliates/)
+- [Dan Luu’s “Blog monetization”](https://danluu.com/blog-ads/) 
 
 #### Selective tech publications
 - [InfoQ](https://www.infoq.com/write-for-infoq/)   
