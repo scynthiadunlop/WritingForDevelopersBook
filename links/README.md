@@ -81,7 +81,7 @@ This file provides a handy guide to all the blog posts and other resources we me
 
 ### Chapter 2
 - [The Pragmatic Engineer newsletter](https://newsletter.pragmaticengineer.com/)
-- [Tidy First newsletter](https://tidyfirst.substack.com/)
+- [Tidy First? newsletter](https://tidyfirst.substack.com/)
 
 ### Chapter 3
 - [Hacker News insights on articles per day](https://news.ycombinator.com/item?id=33454140)
@@ -157,7 +157,7 @@ N/A
    
 ### Chapter 15
 - [Lobsters guidelines](https://lobste.rs/about)
-- [List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
+- [List of Hacker News's undocumented features and behaviors](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
 - [ahrefs Backlink Checker - free, no registration required](https://ahrefs.com/backlink-checker/)
 - [Neil Patel’s "Ubersuggest" Backlink Checker - free, registration required](https://neilpatel.com/backlinks/)
   
@@ -173,7 +173,7 @@ N/A
 - [Will Larson's post, “What I Learned Writing a Book”](https://lethain.com/learned-writing-book/)
 - [Will Larson's post, “More (self-)publishing thoughts”](https://lethain.com/more-publshing-thoughts/)
 - [Gregor Hohpe’s post  “The Economics of Writing Technical Books”](https://architectelevator.com/strategy/book-author-economics/)
-- [Rob Fitzpatrick’s book, Write Useful Books](https://www.usefulbooks.com/) 
+- [Rob Fitzpatrick’s book, "Write Useful Books"](https://www.usefulbooks.com/) 
 
 ### Appendix A
 #### Where to post your posts
