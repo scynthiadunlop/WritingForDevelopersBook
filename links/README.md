@@ -72,12 +72,12 @@ This file provides a handy guide to all the blog posts and other resources we me
 - [Bryan's post on the tribute](https://bcantrill.dtrace.org/2008/05/31/a-tribute-to-jim-gray/)
 
 ### Chapter 1
- - [Scott Hanselman's post, “Do they deserve the gift of your keystrokes?”](https://www.hanselman.com/blog/do-they-deserve-the-gift-of-your-keystrokes)
- - [Gergely Orosz's post, “I removed all affiliate links from my blog: numbers”](https://blog.pragmaticengineer.com/affiliates/)
- - [Martin Kleppmann's post, “Writing a book: is it worth it?”](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html)
+ - [Scott Hanselman's post, "Do they deserve the gift of your keystrokes?"](https://www.hanselman.com/blog/do-they-deserve-the-gift-of-your-keystrokes)
+ - [Gergely Orosz's post, "I removed all affiliate links from my blog: numbers"](https://blog.pragmaticengineer.com/affiliates/)
+ - [Martin Kleppmann's post, "Writing a book: is it worth it?"](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html)
  - [Phil Eaton's post, "Is it worth writing about?"](https://notes.eatonphil.com/is-it-worth-writing-about.html)
 - [Sam Rose's post, "Memory Allocation"](https://samwho.dev/memory-allocation/)
-- [Sam Rose's post, "Load Balancing'](https://samwho.dev/load-balancing/)
+- [Sam Rose's post, "Load Balancing"](https://samwho.dev/load-balancing/)
 
 ### Chapter 2
 - [The Pragmatic Engineer newsletter](https://newsletter.pragmaticengineer.com/)
@@ -266,4 +266,4 @@ A few great blogs on blogging
 - [Phil Eaton's blogs on writing](https://notes.eatonphil.com/tags/writing.html): Phil Eaton's tips on what to write about, what makes a great technical blog, and more
 - [How (some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/): Dan Luu's takeaways after interviewing the people behind a few great blogs (and a few "antipattern" examples who, politely, are not named)
 - [Becoming a better writer as a software engineer](https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/): Gergely Orosz on the importance of writing, the writing process, and tips for building your writing muscle
-- [How to achieve ultimate blog success in one easy step](https://blog.codinghorror.com/how-to-achieve-ultimate-blog-success-in-one-easy-step/): Jeff Atwoood's singlemost important piece of advice for blogging 
+- [How to achieve ultimate blog success in one easy step](https://blog.codinghorror.com/how-to-achieve-ultimate-blog-success-in-one-easy-step/): Jeff Atwood's single most important piece of advice for blogging 
