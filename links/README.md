@@ -16,53 +16,53 @@ This file provides a handy guide to all the blog posts and other resources we me
 - [The Return of the Frame Pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html) by Brendan Gregg
 
 ### The "Bug Hunt" Pattern (Chapter 8)
-- [Hunting a NUMA Performance Bug](https://www.scylladb.com/2021/09/28/hunting-a-numa-performance-bug/) by Michał Chojnowski
+- [Hunting a NUMA Performance Bug](https://www.scylladb.com/2021/09/28/hunting-a-numa-performance-bug/) by Michał Chojnowski (ScyllaDB)
 - [Why Is My Rust Build So Slow?](https://fasterthanli.me/articles/why-is-my-rust-build-so-slow) by Amos Wenger
 - [How a Single Line of Code Made a 24-core Server Slower Than a Laptop](https://pkolaczk.github.io/server-slower-than-a-laptop/) by Piotr Kołaczkowski
-- [Lessons from Debugging a Tricky Direct Memory Leak](https://medium.com/pinterest-engineering/lessons-from-debugging-a-tricky-direct-memory-leak-f638c722d9f2) by Sanchay Javeria
+- [Lessons from Debugging a Tricky Direct Memory Leak](https://medium.com/pinterest-engineering/lessons-from-debugging-a-tricky-direct-memory-leak-f638c722d9f2) by Sanchay Javeria (Pinterest)
 - [ZFS Is Mysteriously Eating My CPU](https://www.brendangregg.com/blog/2021-09-06/zfs-is-mysteriously-eating-my-cpu.html) by Brendan Gregg
 
 ### The "We Rewrote It in X" Pattern (Chapter 9)
 - [Why I Rewrote My Rust Keyboard Firmware in Zig: Consistency, Mastery, and Fun](https://kevinlynagh.com/rust-zig/) by Kevin Lynagh
-- [How Turborepo is Porting from Go to Rust](https://vercel.com/blog/how-turborepo-is-porting-from-go-to-rust) by Nicholas Yang and Anthony Shew
-- [Why Discord Is Switching From Go to Rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust) by Jesse Howarth
-- [From Zero to 10 Million Lines of Kotlin](https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/) by Omer Strulovich
+- [How Turborepo is Porting from Go to Rust](https://vercel.com/blog/how-turborepo-is-porting-from-go-to-rust) by Nicholas Yang and Anthony Shew (Vercel)
+- [Why Discord Is Switching From Go to Rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust) by Jesse Howarth (Discord)
+- [From Zero to 10 Million Lines of Kotlin](https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/) by Omer Strulovich (Meta)
 - [Why We at $FAMOUS_COMPANY Switched to $HYPED_TECHNOLOGY](https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology) by Saagar Jha
 
 ### The "How We Built It" Pattern (Chapter 10)
-- [How Prime Video Updates its App for More Than 8,000 Device Types](https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types) by Alexandru Ene
-- [Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm) by The Twitter Team
-- [How We Built Notification Rate Limiter for Eight Billion Notifications Per Day for 400 Million Monthly Active Users](https://sharechat.com/blogs/engineering/how-we-built-notification-rate-limiter-for-eight-billion-notifications-per-day-for-400-million) by Akshit Verma and Ayush Gupta
-- [How We Built Scalable Spatial Data and Spatial Indexing in CockroachDB](https://www.cockroachlabs.com/blog/how-we-built-spatial-indexing/) by Sumeer Bhola
-- [Ship Shape](https://www.canva.dev/blog/engineering/ship-shape/) by Kerry Halupka and Rowan Katekar
+- [How Prime Video Updates its App for More Than 8,000 Device Types](https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types) by Alexandru Ene (Amazon Science)
+- [Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm) by The Twitter Team (𝕏 Engineering)
+- [How We Built Notification Rate Limiter for Eight Billion Notifications Per Day for 400 Million Monthly Active Users](https://sharechat.com/blogs/engineering/how-we-built-notification-rate-limiter-for-eight-billion-notifications-per-day-for-400-million) by Akshit Verma and Ayush Gupta (ShareChat)
+- [How We Built Scalable Spatial Data and Spatial Indexing in CockroachDB](https://www.cockroachlabs.com/blog/how-we-built-spatial-indexing/) by Sumeer Bhola (Cockroach Labs)
+- [Ship Shape](https://www.canva.dev/blog/engineering/ship-shape/) by Kerry Halupka and Rowan Katekar (Canva)
 
 ### The "Lessons Learned" Pattern (Chapter 11)
-- [25% or 6 to 4: The 11/6/23 Authentication Outage](https://discord.com/blog/authentication-outage) by Mark Smith
-- [Herding Elephants: Lessons Learned from Sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion) by Garrett Fidalgo
-- [Something You Probably Want to Know About if You're Using SQLite in Golang](https://turso.tech/blog/something-you-probably-want-to-know-about-if-youre-using-sqlite-in-golang-72547ad625f1) by Piotr Jastrzębski
+- [25% or 6 to 4: The 11/6/23 Authentication Outage](https://discord.com/blog/authentication-outage) by Mark Smith (Discord)
+- [Herding Elephants: Lessons Learned from Sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion) by Garrett Fidalgo (Notion)
+- [Something You Probably Want to Know About if You're Using SQLite in Golang](https://turso.tech/blog/something-you-probably-want-to-know-about-if-youre-using-sqlite-in-golang-72547ad625f1) by Piotr Jastrzębski (Turso)
 - [Lessons Learned Scaling PostgreSQL Database to 1.2bn Records/Month](https://gajus.medium.com/lessons-learned-scaling-postgresql-database-to-1-2bn-records-month-edc5449b3067) by Gajus Kuizinas
 - [Lessons from Stripe](https://markmcgranaghan.com/lessons-from-stripe) by Mark McGranaghan
 
 ### The "Thoughts on Trends" Pattern (Chapter 12)
 - [I Want Off Mr. Golang's Wild Ride](https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride) by Amos Wenger
-- [How to Think About WebAssembly (Amid the Hype)](https://www.fermyon.com/blog/how-to-think-about-wasm) by Matt Butcher
+- [How to Think About WebAssembly (Amid the Hype)](https://www.fermyon.com/blog/how-to-think-about-wasm) by Matt Butcher (Fermyon)
 - [Rust After the Honeymoon](https://bcantrill.dtrace.org/2020/10/11/rust-after-the-honeymoon/) by Bryan Cantrill
 - [Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/) by Gergely Orosz
-- [How io_uring and eBPF Will Revolutionize Programming in Linux](https://thenewstack.io/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/) by Glauber Costa
+- [How io_uring and eBPF Will Revolutionize Programming in Linux](https://thenewstack.io/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/) by Glauber Costa (The New Stack, ScyllaDB)
 
 ### The "Non-Markety Product Perspective" Pattern (Chapter 13)
-- [We Put a Distributed Database in a Browser – and made a game of it!](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser) by Phil Eaton, Joran Dirk Greef
-- [32 Bit Real Estate](https://fly.io/blog/32-bit-real-estate/) by Kurt Mackey
-- [System Dependencies Are Hard (So We Made Them Easier)](https://blog.axo.dev/2023/10/dependencies) by Misty De Méo
-- [Why `fsync()`: Losing Unsynced Data on a Single Node Leads to Global Data Loss](https://redpanda.com/blog/why-fsync-is-needed-for-data-safety-in-kafka-or-non-byzantine-protocols) by Denis Rystsov and Alexander Gallego
--  [So You Think You Want to Write a Deterministic Hypervisor?](https://antithesis.com/blog/deterministic_hypervisor/) by Alex Pshenichkin
+- [We Put a Distributed Database in a Browser – And Made a Game of It!](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser) by Phil Eaton, Joran Dirk Greef (TigerBeetle)
+- [32 Bit Real Estate](https://fly.io/blog/32-bit-real-estate/) by Kurt Mackey (Fly.io)
+- [System Dependencies Are Hard (So We Made Them Easier)](https://blog.axo.dev/2023/10/dependencies) by Misty De Méo (axo)
+- [Why `fsync()`: Losing Unsynced Data on a Single Node Leads to Global Data Loss](https://redpanda.com/blog/why-fsync-is-needed-for-data-safety-in-kafka-or-non-byzantine-protocols) by Denis Rystsov and Alexander Gallego (Redpanda)
+-  [So You Think You Want to Write a Deterministic Hypervisor?](https://antithesis.com/blog/deterministic_hypervisor/) by Alex Pshenichkin (Antithesis)
 
 ### The "Benchmarks and Test Results" Pattern (Chapter 14)
-- [AWS Graviton2: Arm Brings Better Price-Performance than Intel](https://www.scylladb.com/2021/09/16/aws-graviton2-arm-brings-better-price-performance-than-intel/) by Michał Chojnowski
+- [AWS Graviton2: Arm Brings Better Price-Performance than Intel](https://www.scylladb.com/2021/09/16/aws-graviton2-arm-brings-better-price-performance-than-intel/) by Michał Chojnowski (ScyllaDB)
 - [The Relative Performance of C and Rust](https://bcantrill.dtrace.org/2018/09/28/the-relative-performance-of-c-and-rust/) by Bryan Cantrill
-- [Redpanda vs. Kafka: A Performance Comparison](https://redpanda.com/blog/redpanda-vs-kafka-performance-benchmark) by Tristan Stevens
-- [The Effect of Switching to TCMalloc on RocksDB Memory Use](https://blog.cloudflare.com/the-effect-of-switching-to-tcmalloc-on-rocksdb-memory-use/) by Dmitry Vorobev
-- [How Much Does Rust's Bounds Checking Actually Cost?](https://blog.readyset.io/bounds-checks/) by Alana Marzoev
+- [Redpanda vs. Kafka: A Performance Comparison](https://redpanda.com/blog/redpanda-vs-kafka-performance-benchmark) by Tristan Stevens (Redpanda)
+- [The Effect of Switching to TCMalloc on RocksDB Memory Use](https://blog.cloudflare.com/the-effect-of-switching-to-tcmalloc-on-rocksdb-memory-use/) by Dmitry Vorobev (Cloudflare)
+- [How Much Does Rust's Bounds Checking Actually Cost?](https://blog.readyset.io/bounds-checks/) by Alana Marzoev (Readyset)
 
 
 ## Other In-Book References
@@ -93,17 +93,17 @@ This file provides a handy guide to all the blog posts and other resources we me
 - [Reddit post, “How does zig magically cross compile without target shared libraries”](https://www.reddit.com/r/Zig/comments/tt7irl/how_does_zig_magically_cross_compile_without/)
 
 ### Chapter 5
-- [Gwen Shapira's post, “Transaction isolation in Postgres, explained”](https://www.thenile.dev/blog/transaction-isolation-postgres)
-- [Liz Fong-Jones’s post, “Scaling Kafka at Honeycomb”](https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines)
+- [Gwen Shapira's post, “Transaction isolation in Postgres, explained”](https://www.thenile.dev/blog/transaction-isolation-postgres) (Nile)
+- [Liz Fong-Jones’s post, “Scaling Kafka at Honeycomb”](https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines) (Honeycomb)
 - [Paul Brians’ site, "Common Errors in English Usage"](https://brians.wsu.edu/common-errors/)
 - ["A Writer's Reference" by Diana Hacker and Nancy Sommers](https://store.macmillanlearning.com/us/product/A-Writers-Reference/p/1319169406)
-- [Bryan Cantrill's post, “Moore's scofflaws”](https://oxide.computer/blog/moores-scofflaws)
-- [Kerry Halupka and Rowan Katekar's post, “Ship shape”](https://www.canva.dev/blog/engineering/ship-shape/)
-- [Will Wilson's post, “Is something bugging you?”](https://antithesis.com/blog/is_something_bugging_you/)
-- [Natalie Serrino's post, “Dumpster diving the Go Garbage Collector”](https://blog.px.dev/go-garbage-collector/)
+- [Bryan Cantrill's post, “Moore's scofflaws”](https://oxide.computer/blog/moores-scofflaws) (Oxide Computer)
+- [Kerry Halupka and Rowan Katekar's post, “Ship shape”](https://www.canva.dev/blog/engineering/ship-shape/) (Canva)
+- [Will Wilson's post, “Is something bugging you?”](https://antithesis.com/blog/is_something_bugging_you/) (Antithesis)
+- [Natalie Serrino's post, “Dumpster diving the Go Garbage Collector”](https://blog.px.dev/go-garbage-collector/) (Pixie)
 - [Amos Wenger's post, “Lies we tell ourselves to keep using Golang”](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
-- [Bo Ingram's post, "How Discord stores trillions of messages"](https://discord.com/blog/how-discord-stores-trillions-of-messages)
-- [Phil Eaton and Joran Dirk Greef's post, "We put a distributed database in the browser – and made a game of it!"](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser)
+- [Bo Ingram's post, "How Discord stores trillions of messages"](https://discord.com/blog/how-discord-stores-trillions-of-messages) (Discord)
+- [Phil Eaton and Joran Dirk Greef's post, "We put a distributed database in the browser – and made a game of it!"](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser) (TigerBeetle)
 - ["Everyday Data Visualization" by Desireé Abbott](https://www.amazon.com/Everyday-Data-Visualization-effective-dashboards/dp/1633438406)
 - ["Fundamentals of Data Visualization" by Claus O. Wilke](https://clauswilke.com/dataviz/)
 - [Books by Edward Tufte](https://www.edwardtufte.com/books/) 
@@ -167,7 +167,7 @@ N/A
 - [Gunnar Morling's tweet about giving conference talks](https://x.com/gunnarmorling/status/1796537286550757420)
 
 ### Chapter 17
- - [Martin Kleppmann's post, "Writing a book: is it worth it?"](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html)
+- [Martin Kleppmann's post, "Writing a book: is it worth it?"](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html)
 - [Will Larson's post, “Self-publishing Staff Engineer”](https://lethain.com/self-publishing-staff-engineer/)
 - [“Joel On Software" by Joel Spolsky](https://www.joelonsoftware.com/buy-the-books/) based on https://www.joelonsoftware.com/
 - ["The Old New Thing" by Raymond Chen](https://www.amazon.com/Old-New-Thing-Development-Throughout/dp/0321440307) based on https://devblogs.microsoft.com/oldnewthing/  
