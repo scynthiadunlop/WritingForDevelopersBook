@@ -25,7 +25,7 @@ This file provides a handy guide to all the blog posts and other resources we me
 ### The "We Rewrote It in X" Pattern (Chapter 9)
 - [Why I Rewrote My Rust Keyboard Firmware in Zig: Consistency, Mastery, and Fun](https://kevinlynagh.com/rust-zig/) by Kevin Lynagh
 - [How Turborepo is Porting from Go to Rust](https://vercel.com/blog/how-turborepo-is-porting-from-go-to-rust) by Nicholas Yang and Anthony Shew (Vercel)
-- [Why Discord Is Switching From Go to Rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust) by Jesse Howarth (Discord)
+- [Why Discord Is Switching from Go to Rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust) by Jesse Howarth (Discord)
 - [From Zero to 10 Million Lines of Kotlin](https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/) by Omer Strulovich (Meta)
 - [Why We at $FAMOUS_COMPANY Switched to $HYPED_TECHNOLOGY](https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology) by Saagar Jha
 
@@ -74,7 +74,7 @@ This file provides a handy guide to all the blog posts and other resources we me
 ### Chapter 1
  - [Scott Hanselman's post, “Do they deserve the gift of your keystrokes?”](https://www.hanselman.com/blog/do-they-deserve-the-gift-of-your-keystrokes)
  - [Gergely Orosz's post, “I removed all affiliate links from my blog: numbers”](https://blog.pragmaticengineer.com/affiliates/)
- - [Martin Kleppman's post, “Writing a book: is it worth it?”](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html)
+ - [Martin Kleppmann's post, “Writing a book: is it worth it?”](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html)
  - [Phil Eaton's post, "Is it worth writing about?"](https://notes.eatonphil.com/is-it-worth-writing-about.html)
 - [Sam Rose's post, "Memory Allocation"](https://samwho.dev/memory-allocation/)
 - [Sam Rose's post, "Load Balancing'](https://samwho.dev/load-balancing/)
@@ -247,7 +247,7 @@ N/A
  - [Stackblitz](https://stackblitz.com/)
    
 ### Appendix B
-- [Piotr's prehistoric blog, “Enhancements to ScyllaDB’s Filtering Implementation”](https://www.scylladb.com/2018/08/16/upcoming-enhancements-filtering-implementation/)
+- [Piotr's prehistoric blog, “Enhancements to ScyllaDB’s Filtering Implementation”](https://www.scylladb.com/2018/08/16/upcoming-enhancements-filtering-implementation/) (ScyllaDB)
 
 ### Afterword by Scott Hanselman
 N/A
