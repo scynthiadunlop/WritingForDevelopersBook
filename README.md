@@ -34,6 +34,8 @@ You can [preview the chapters on the Manning site](https://livebook.manning.com/
 
 "If you're reading this book, you're already one step ahead, because you understand the best programming language we've ever created is the one you've known since you were four years old." **\- Jeff Atwood, Coding Horror Owner/Writer, Co-founder of Stack Overflow** 
 
+"This looks incredibly helpful. Writing is such an important skill to have, and I can’t wait to read it!" **\- Alex Xu, Co-founder of ByteByteGo** 
+
 
 ## Write That Blog!
 As a not-so-subtle hint to our readers, we created https://writethat.blog. We’ll be continuously updating this site with interesting engineering blog posts, including Piotr’s pundit commentary. 
