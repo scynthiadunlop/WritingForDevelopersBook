@@ -197,8 +197,8 @@ N/A
 - [Substack: Setting up your Substack for the first time](https://on.substack.com/p/setting-up-your-substack-for-the) 
 
 #### Monetization
-- [Gergely Orosz’ “Three years of advertising on my blog: numbers”](https://blog.pragmaticengineer.com/ads/)
-- [Gergely Orosz’ follow-up article, “I removed all affiliate links from my blog: numbers”](https://blog.pragmaticengineer.com/affiliates/)
+- [Gergely Orosz’s “Three years of advertising on my blog: numbers”](https://blog.pragmaticengineer.com/ads/)
+- [Gergely Orosz’s follow-up article, “I removed all affiliate links from my blog: numbers”](https://blog.pragmaticengineer.com/affiliates/)
 - [Dan Luu’s “Blog monetization”](https://danluu.com/blog-ads/) 
 
 #### Selective tech publications
