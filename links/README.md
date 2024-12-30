@@ -260,10 +260,12 @@ Tools we discovered since going to print
 - [Napkin.ai](https://www.napkin.ai/): Turns your text into visuals. 
 
 ### On Writing
-A few great blogs on blogging
+Some great blogs on blogging
 - [Blogging through the decades](https://bcantrill.dtrace.org/2024/11/16/blogging-through-the-decades/): Bryan Cantrill reflects on two decades of blogging
 - [Blog writing for developers](https://rmoff.net/2023/07/19/blog-writing-for-developers/): Robin Moffatt's tips from the DevEx perspective
 - [Phil Eaton's blogs on writing](https://notes.eatonphil.com/tags/writing.html): Phil Eaton's tips on what to write about, what makes a great technical blog, and more
+- [Julia Evans' blogs on writing](https://jvns.ca/categories/blogging/): Julia Evans shares her experiences with blogging, from dealing with online critics to working with static site generators
 - [How (some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/): Dan Luu's takeaways after interviewing the people behind a few great blogs (and a few "antipattern" examples who, politely, are not named)
 - [Becoming a better writer as a software engineer](https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/): Gergely Orosz on the importance of writing, the writing process, and tips for building your writing muscle
 - [How to achieve ultimate blog success in one easy step](https://blog.codinghorror.com/how-to-achieve-ultimate-blog-success-in-one-easy-step/): Jeff Atwood's single most important piece of advice for blogging 
+  
