@@ -5,7 +5,7 @@ This file provides a handy guide to all the blog posts and other resources we me
 
 - [Featured Blog Posts](#featured-blog-posts)
 - [Other In-Book References](#other-in-book-references)
-- [Writing/Blogging Resources Beyond the Book](#writing-resources-beyond-the-book)
+- [Blogging Resources Beyond the Book](#blogging-resources-beyond-the-book)
 ## Featured Blog Posts
 
 ### Captivating Readers (Chapter 3)
@@ -252,7 +252,7 @@ N/A
 ### Afterword by Scott Hanselman
 N/A
 
-## Writing/Blogging Resources Beyond the Book
+## Blogging Resources Beyond the Book
 ### Tools
 Tools we discovered since going to print
 - [lmno.lol](https://lmno.lol/): A new platform for "blogging minus the yucky bits of the modern web"
