@@ -5,7 +5,7 @@ This file provides a handy guide to all the blog posts and other resources we me
 
 - [Featured Blog Posts](#featured-blog-posts)
 - [Other In-Book References](#other-in-book-references)
-- [Writing Resources Beyond the Book](#writing-resources-beyond-the-book)
+- [Writing/Blogging Resources Beyond the Book](#writing-resources-beyond-the-book)
 ## Featured Blog Posts
 
 ### Captivating Readers (Chapter 3)
