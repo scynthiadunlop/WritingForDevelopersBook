@@ -252,9 +252,10 @@ N/A
 ### Afterword by Scott Hanselman
 N/A
 
-## Writing Resources Beyond the Book
+## Writing/Blogging Resources Beyond the Book
 ### Tools
 Tools we discovered since going to print
+- [lmno.lol](https://lmno.lol/): A new platform for "blogging minus the yucky bits of the modern web"
 - [Scramble](https://github.com/zlwaterfield/scramble): An open source Grammarly alternative.
 - [Bullshit remover](https://www.bullshitremover.com/): Paste crap, get truth.
 - [Napkin.ai](https://www.napkin.ai/): Turns your text into visuals. 
