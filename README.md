@@ -2,7 +2,7 @@
 <img src="excerpts/cover_frame.png" align="right" width="200"/>
 
 
-**Update:** The print book and PDF are available now; the final ePub/Kindle should be ready January 14! You can purchase it at [Amazon](https://www.amazon.com/Writing-Developers-Blogs-that-read/dp/1633436284), [Manning](https://www.manning.com/books/writing-for-developers?utm_source=dunlop&utm_medium=affiliate&utm_campaign=book_dunlop_writing_5_16_24&a_aid=dunlop&a_bid=33a8dae6&chan=mm_twitter&), and [other online bookstores](https://www.simonandschuster.com/books/Writing-for-Developers/Piotr-Sarna/9781633436282). Use the code "pbdunlop" for 45% off on Manning.com.
+**Update:** The print book, PDF, and .ePub are available now on [Manning](https://www.manning.com/books/writing-for-developers?utm_source=dunlop&utm_medium=affiliate&utm_campaign=book_dunlop_writing_5_16_24&a_aid=dunlop&a_bid=33a8dae6&chan=mm_twitter&). Use the code "pbdunlop" for 45% off. It should also be shipping soon from [Amazon](https://www.amazon.com/Writing-Developers-Blogs-that-read/dp/1633436284) and [other online bookstores](https://www.simonandschuster.com/books/Writing-for-Developers/Piotr-Sarna/9781633436282). Amazon US will ship print books January 28; Kindle should be available even sooner. 
 
 ***
 *Writing For Developers: Blogs That Get Read* is a practical guide to writing more compelling engineering blog posts. 
