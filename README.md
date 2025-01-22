@@ -44,6 +44,9 @@ Bonus: See how Piotr [built "Write That Blog!" with Turso](https://turso.tech/bl
 
 If you want monthly Write That Blog! updates via email, [here you go](https://writethatblog.substack.com/)! We'll also use that Substack to share insights from top tech bloggers and new articles on topics from the book.
 
+## Book Club
+Thinking of reading “Writing for Developers: Blogs That Get Read?” Discuss it with Phil Eaton's (virtual + async) book club, starting February 8. Join the community at https://eatonphil.com/2025-writing-for-developers.html
+
 
 ## About This Repo 
 This repository aggregates links to all the blog posts and other references we mention in the book. And as we create or encounter related writing resources, we'll add them here too. 
