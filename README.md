@@ -30,9 +30,14 @@ You can [preview the chapters on the Manning site](https://livebook.manning.com/
 
 “Piotr and Cynthia give not merely guidance on how to write, but suggestions of what to write – of unearthing the narrative arcs that naturally occur within the work of software practitioners. The book is loaded with specific examples of writing in the wild that can serve as object lessons.” **\- Bryan Cantrill, Co-founder and CTO of Oxide Computer** 
 
+"It's rare that I get a tech book and immediately think, "Oh, this will be useful for years to come!" But that is exactly how I feel about Piotr Sarna and Cynthia Dunlop's new book, *Writing for Developers.* Highly recommend."
+**\- Matt Butcher, CEO at Fermyon Technologies** 
+
 "Piotr and Cynthia have both been tremendously helpful to me with writing and communicating effectively, and it's so exciting to see their wisdom distilled and shared with the world. If you're writing for developers, the best decision you can make is to read *Writing for Developers*." **\- Bo Ingram, Author of ScyllaDB in Action**  
 
 "If you're reading this book, you're already one step ahead, because you understand the best programming language we've ever created is the one you've known since you were four years old." **\- Jeff Atwood, Coding Horror Owner/Writer, Co-founder of Stack Overflow** 
+
+"Writing is a key skill for developers, and blogging is a fun way to improve this skill while sharing your ideas with a wider audience and advancing your career. I wish more developers blogged. If you are even thinking about blogging, *Writing for Developers*, is a must-read. It is basically “design patterns” for blogs, with a lot of references and ideas. I really like the short-snippet structure, since you can get a lot out of the book without committing to weeks of head-down reading. I really hope this book will inspire more of you to blog." **\- Hacking SaaS**
 
 "This looks incredibly helpful. Writing is such an important skill to have, and I can’t wait to read it!" **\- Alex Xu, Co-founder of ByteByteGo** 
 
