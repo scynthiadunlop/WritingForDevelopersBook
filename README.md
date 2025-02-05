@@ -37,7 +37,7 @@ You can [preview the chapters on the Manning site](https://livebook.manning.com/
 
 "If you're reading this book, you're already one step ahead, because you understand the best programming language we've ever created is the one you've known since you were four years old." **\- Jeff Atwood, Coding Horror Owner/Writer, Co-founder of Stack Overflow** 
 
-"Writing is a key skill for developers, and blogging is a fun way to improve this skill while sharing your ideas with a wider audience and advancing your career. I wish more developers blogged. If you are even thinking about blogging, *Writing for Developers*, is a must-read. It is basically “design patterns” for blogs, with a lot of references and ideas. I really like the short-snippet structure, since you can get a lot out of the book without committing to weeks of head-down reading. I really hope this book will inspire more of you to blog." **\- Hacking SaaS**
+"Writing is a key skill for developers, and blogging is a fun way to improve this skill while sharing your ideas with a wider audience and advancing your career. I wish more developers blogged. If you are even thinking about blogging, *Writing for Developers*, is a must-read. It is basically “design patterns” for blogs, with a lot of references and ideas. I really like the short-snippet structure, since you can get a lot out of the book without committing to weeks of head-down reading. I really hope this book will inspire more of you to blog." **\- Gwen Shapira, Founder of SaaS Developer Community and Nile Database**
 
 "This looks incredibly helpful. Writing is such an important skill to have, and I can’t wait to read it!" **\- Alex Xu, Co-founder of ByteByteGo** 
 
