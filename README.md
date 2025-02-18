@@ -7,7 +7,7 @@
 ***
 *Writing For Developers: Blogs That Get Read* is a practical guide to writing more compelling engineering blog posts. 
 
-We discuss strategies for nailing all phases of the technical blogging process: planning, drafting, revision -- even promotion and extension. And we have quite a bit of fun exploring the core blog post patterns that are most common across engineering blogs today, like “The Bug Hunt,” “How We Built It,” “Lessons Learned,” “We Rewrote It in X,” “Thoughts on Trends,” etc. Each "pattern" chapter includes an analysis of real-world examples as well as specific dos/don’ts for that particular pattern. There's a section on moving from blogging into opportunities such as article writing, conference speaking, and book writing. Finally, we wrap with a critical (and often amusing) look at generative AI blogging uses and abuses.
+We discuss strategies for nailing all phases of the technical blogging process. And we have quite a bit of fun exploring the core blog post patterns that are most common across engineering blogs today, like “The Bug Hunt,” “How We Built It,” “Lessons Learned,” “We Rewrote It in X,” “Thoughts on Trends,” etc. Each "pattern" chapter includes an analysis of real-world examples as well as specific dos/don’ts for that particular pattern. There's a section on moving from blogging into opportunities such as article writing, conference speaking, and book writing. Finally, we wrap with a critical (and often amusing) look at generative AI blogging uses and abuses.
 
 Oh...and there's also a **foreword by Bryan Cantrill** and an **afterword by Scott Hanselman**!  
 
