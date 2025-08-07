@@ -269,6 +269,7 @@ Some great blog posts on blogging
 - [How (some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/): Dan Luu's takeaways after interviewing the people behind a few great blogs (and a few "antipattern" examples who, politely, are not named)
 - [Becoming a better writer as a software engineer](https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/): Gergely Orosz on the importance of writing, the writing process, and tips for building your writing muscle
 - [How to achieve ultimate blog success in one easy step](https://blog.codinghorror.com/how-to-achieve-ultimate-blog-success-in-one-easy-step/): Jeff Atwood's single most important piece of advice for blogging
-- [10 Rules I Learned About Technical Writing](https://www.thecoder.cafe/p/10-technical-writing-rules): Teiva Harsanyi shares 10 pointed and practical rules he learned while writing 100 Go Mistakes and How to Avoid Them.
+- [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work): Aaron Francis on why publishing your work is one of the best ways to invite a little more luck into your life
+- [10 rules I learned about technical writing](https://www.thecoder.cafe/p/10-technical-writing-rules): Teiva Harsanyi shares 10 pointed and practical rules he learned while writing 100 Go Mistakes and How to Avoid Them.
 
 Bonus: [Expert bloggers' thoughts on blogging](https://writethatblog.substack.com/t/tech-blogger-insights)
