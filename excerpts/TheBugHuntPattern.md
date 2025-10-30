@@ -102,4 +102,7 @@ The blog post describes a hunt for the cause of mysterious higher-than-expected 
 The title itself is captivating, but then something in the URL jumps out at you: it's by Brendan Gregg, the flame graph inventor! This is a prime example of why personal brand matters so much. When I see “Brendan Gregg,” I immediately assume that the article is interesting … and I wasn't mistaken in the slightest. 
 
 Given Gregg’s expertise, the problem analysis naturally involved flame graphs. The root cause is quite a surprise, and Gregg described it in a very informal and funny manner. The blog post is also very concise: a three-minute read, even if you reserve some time upfront to look at the flame graph screenshots. It clearly shows that you don't need to write thousands of words to squeeze in lots of knowledge, tips, and interesting technical details. 
+
 ...
+
+Read more on our Substack (https://writethatblog.substack.com/p/the-bug-hunt-blog-post-pattern)
