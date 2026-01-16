@@ -257,6 +257,7 @@ N/A
 Tools we discovered since going to print
 - [Scramble](https://github.com/zlwaterfield/scramble): An open source Grammarly alternative.
 - [Bullshit remover](https://www.bullshitremover.com/): Paste crap, get truth.
+- [Fathom](https://usefathom.com/): A Google Analytics alternative.
 
 ### On Writing
 Some great blog posts on blogging
