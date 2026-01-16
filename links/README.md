@@ -257,7 +257,6 @@ N/A
 Tools we discovered since going to print
 - [Scramble](https://github.com/zlwaterfield/scramble): An open source Grammarly alternative.
 - [Bullshit remover](https://www.bullshitremover.com/): Paste crap, get truth.
-- [Napkin.ai](https://www.napkin.ai/): Turns your text into visuals. 
 
 ### On Writing
 Some great blog posts on blogging
