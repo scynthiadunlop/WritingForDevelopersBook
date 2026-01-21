@@ -270,7 +270,7 @@ Some great blog posts on blogging
 - [How to achieve ultimate blog success in one easy step](https://blog.codinghorror.com/how-to-achieve-ultimate-blog-success-in-one-easy-step/): Jeff Atwood's single most important piece of advice for blogging
 - [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work): Aaron Francis on how publishing invites a little more luck into your life
 - [10 rules I learned about technical writing](https://www.thecoder.cafe/p/10-technical-writing-rules): Teiva Harsanyi shares 10 pointed and practical rules he learned while writing "100 Go Mistakes and How to Avoid Them"
-- [Seth Goedecke's blogs on writing](https://www.seangoedecke.com/tags/writing/): Seth Goedecke's very pragmatic tips for reaching more humans with your writing.
+- [Sean Goedecke's blogs on writing](https://www.seangoedecke.com/tags/writing/): Sean Goedecke's very pragmatic tips for reaching more humans with your writing.
 - [Simon Willison's blog posts on blogging](https://simonwillison.net/tags/blogging/): Simon Willison has built an amazing set of resources on practically every aspect of writing and publishing. 
 
 Bonus: [Interviews with expert bloggers on blogging](https://writethatblog.substack.com/t/tech-blogger-insights)
