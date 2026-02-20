@@ -50,7 +50,10 @@ As a not-so-subtle hint to our readers, we created https://writethat.blog. We’
 
 Bonus: See how Piotr [built "Write That Blog!" with Turso](https://turso.tech/blog/write-that-blog-with-turso)
 
-If you want monthly Write That Blog! updates via email, [here you go](https://writethatblog.substack.com/)! We'll also use that Substack to share [insights from top tech bloggers](https://writethatblog.substack.com/t/tech-blogger-insights) and new articles on topics from the book.
+If you want monthly Write That Blog! updates via email, [here you go](https://writethatblog.substack.com/)! 
+
+We're also using that sight to share [insights from top tech bloggers](https://writethatblog.substack.com/t/tech-blogger-insights). So far, we've featured Eric Lippert, antirez, Bryan Cantrill (+Tim Bray, Will Snow, Adam Leventhal), Sam Rose, Jeff Atwood, Charity Majors, Gunnar Morling, Phil Eaton, Matt Butcher, fasterthanlime, Glauber Costa, Scott Hanselman, Mark Downie, Tanel Poder, Thorsten Ball, Aaron Francis, Preston Thorpe, Simon Willison, Sean Goedecke, Robin Moffatt, Gwen Shapira...
+
 
 
 ## About This Repo 
