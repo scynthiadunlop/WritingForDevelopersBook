@@ -21,28 +21,29 @@ You can [preview the chapters on the Manning site](https://livebook.manning.com/
 ## Recommendations
 "In my experience, only a small fraction of developers write long-form (blogs, essays, reflections). Those who do tend to see benefits both over the short and long-run. This book is a missing guide to provide inspiration to get started writing down your thoughts. Getting started is always the most difficult step!" **\- Gergely Orosz, author of The Pragmatic Engineer Newsletter and The Software Engineer's Guidebook**
 
-“A great blog can help put your career onto the fast track, and this is the book telling you how. A must-read!” **\- Gunnar Morling, Software Engineer at Confluent**
+“Piotr and Cynthia give not merely guidance on how to write, but suggestions of what to write – of unearthing the narrative arcs that naturally occur within the work of software practitioners. The book is loaded with specific examples of writing in the wild that can serve as object lessons.” **\- Bryan Cantrill, Co-founder and CTO -- Oxide Computer** 
 
-“There is no better way for an engineer to supercharge their growth, develop their career, and make a lasting mark on the world than by writing about their work, yet a very small fraction of us ever do so. This book is full of simple, practical guidance for improving your craft and increasing your impact on the industry. I will be recommending it far and wide.”  **\- Charity Majors, Co-founder and CTO at Honeycomb**
+“There is no better way for an engineer to supercharge their growth, develop their career, and make a lasting mark on the world than by writing about their work, yet a very small fraction of us ever do so. This book is full of simple, practical guidance for improving your craft and increasing your impact on the industry. I will be recommending it far and wide.”  **\- Charity Majors, Co-founder and CTO -- Honeycomb**
 
-“Writing is a way to garbage collect your thoughts into a clear narrative, not just for the audience but for the individual.  Most content is noise and boring, and learning to distill the important makes you a clear thinker. It is a grueling process - for me - moving from frustration to eureka, especially if your wife is a literature major. *Writing for Developers* is a down-to-earth manuscript with a punk rock DIY attitude that demystifies the process and helps authors move past the writer’s block that we all face. A fun read to make you a better writer.” **\- Alex Gallego, Founder and CEO of Redpanda** 
-
-"Afraid of writing blog posts? Afraid of your boss who wants you to write blog posts? This comprehensive guide to writing engineer-oriented blog posts is for you!" **\- Avi Kivity, CTO and Co-founder of ScyllaDB**  
-
-"This book packs years of experience into a convenient guide targeted to software engineers. It'll help you write more effectively so you can write better blogs in less time. **\- Pekka Enberg, CTO and Co-founder of Turso**
-
-“For dev-focused startups, blogging is do-or-die. This book offers lots of actionable tips, even for those of us who have been writing for years. Plus, it’s a seriously fun read.” **\- Glauber Costa, CEO and Co-founder of Turso**
-
-“Piotr and Cynthia give not merely guidance on how to write, but suggestions of what to write – of unearthing the narrative arcs that naturally occur within the work of software practitioners. The book is loaded with specific examples of writing in the wild that can serve as object lessons.” **\- Bryan Cantrill, Co-founder and CTO of Oxide Computer** 
+“Writing is a way to garbage collect your thoughts into a clear narrative, not just for the audience but for the individual.  Most content is noise and boring, and learning to distill the important makes you a clear thinker. It is a grueling process - for me - moving from frustration to eureka, especially if your wife is a literature major. *Writing for Developers* is a down-to-earth manuscript with a punk rock DIY attitude that demystifies the process and helps authors move past the writer’s block that we all face. A fun read to make you a better writer.” **\- Alex Gallego, Founder and CEO -- Redpanda** 
 
 "It's rare that I get a tech book and immediately think, "Oh, this will be useful for years to come!" But that is exactly how I feel about Piotr Sarna and Cynthia Dunlop's new book, *Writing for Developers.* Highly recommend."
-**\- Matt Butcher, CEO at Fermyon Technologies** 
+**\- Matt Butcher, Co-founder and CEO -- Fermyon Technologies** 
+
+"Afraid of writing blog posts? Afraid of your boss who wants you to write blog posts? This comprehensive guide to writing engineer-oriented blog posts is for you!" **\- Avi Kivity, Co-founder and CTO -- ScyllaDB**  
+
+"This book packs years of experience into a convenient guide targeted to software engineers. It'll help you write more effectively so you can write better blogs in less time. **\- Pekka Enberg, Co-founder and CTO -- Turso**
+
+“For dev-focused startups, blogging is do-or-die. This book offers lots of actionable tips, even for those of us who have been writing for years. Plus, it’s a seriously fun read.” **\- Glauber Costa, Co-founder and CEO -- Turso**
+
+“A great blog can help put your career onto the fast track, and this is the book telling you how. A must-read!” **\- Gunnar Morling, Software Engineer -- Confluent**
+
+"Writing is a key skill for developers, and blogging is a fun way to improve this skill while sharing your ideas with a wider audience and advancing your career. I wish more developers blogged. If you are even thinking about blogging, *Writing for Developers*, is a must-read. It is basically “design patterns” for blogs, with a lot of references and ideas. I really like the short-snippet structure, since you can get a lot out of the book without committing to weeks of head-down reading. I really hope this book will inspire more of you to blog." **\- Gwen Shapira, Co-founder -- Nile Database**
 
 "Piotr and Cynthia have both been tremendously helpful to me with writing and communicating effectively, and it's so exciting to see their wisdom distilled and shared with the world. If you're writing for developers, the best decision you can make is to read *Writing for Developers*." **\- Bo Ingram, Author of ScyllaDB in Action**  
 
 "If you're reading this book, you're already one step ahead, because you understand the best programming language we've ever created is the one you've known since you were four years old." **\- Jeff Atwood, Coding Horror Owner/Writer, Co-founder of Stack Overflow** 
 
-"Writing is a key skill for developers, and blogging is a fun way to improve this skill while sharing your ideas with a wider audience and advancing your career. I wish more developers blogged. If you are even thinking about blogging, *Writing for Developers*, is a must-read. It is basically “design patterns” for blogs, with a lot of references and ideas. I really like the short-snippet structure, since you can get a lot out of the book without committing to weeks of head-down reading. I really hope this book will inspire more of you to blog." **\- Gwen Shapira, Founder of SaaS Developer Community and Nile Database**
 
 
 ## Write That Blog!
