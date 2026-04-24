@@ -76,5 +76,20 @@ With each post you write, the next one becomes easier and more natural, like ano
 Regular writing sessions provide an opportunity to enhance language skills in the context of your work. This is especially valuable for non-native English speakers. You’ll be forced to think hard about vocabulary (both technical and non-technical), grammar, and overall proficiency. It's a great exercise, especially in the age of automatic grammar-checking software and all kinds of tools for finding synonyms, antonyms, and all the other -nyms. Rather than mechanically accepting suggestions, you learn as you go! 
 ### Engineering
 Writing a blog post creates internal pressure to verify all the information you're about to publish under your name. It compels you to research the topic, double-check that the code snippets are sensible and correct, and browse the Internet for similar articles. And that's great! It is motivation to learn in its purest form – because if you don't do it, you may make a fool of yourself online. You usually won't, of course, but try and explain that to your impostor syndrome. 
-...
 
+## Attracting users for a developer-focused product
+If you’re working on a developer-focused product and you want it to be broadly adopted, writing an engineering blog post about it is an effective way to reach and educate target users. Spending thousands of dollars on carefully crafted paid ads for a developer-focused product is typically like throwing money into the wind. Most ads are blocked, and those that evade defense mechanisms like pi-holes and whatnot are likely to breed contempt. An interesting blog, however, could actually meet the eyeballs of your target users.
+
+To be clear, we’re not suggesting you use a technical blog to try to sell the reader on why your product is the most amazing thing ever. That’s actually worse than all the pretty ads because a markety blog is much easier to shame on Hacker News or other comment sections of choice. But if you write authentic blog posts that share how you engineered your differentiators or implemented critical architectural changes, there’s a good chance they will earn some eyeballs. And that added exposure could let new users know that you exist or motivate on-the-fence users to finally take the plunge.
+
+## Write once, share everywhere
+You have a limited amount of time on this planet. Why waste your precious minutes repeating the same thing over and over again? Capture it in a blog. Think about all the critical points that need to be covered, express them clearly in a written blog, and tada! You never need to do it again. Just link back to the blog post whenever appropriate, for example:
+
+ - Writing one-on-one emails and Slack messages to new hires, forgetful colleagues, or confused users
+ - Referencing the topic in user docs, commit summaries, code review comments, and problem reports
+ - Chiming in on relevant social media discussions or forum threads
+ - Providing context in a subsequent blog post you write
+
+By blogging your thoughts, you’re reaching more people with less typing (or talking). Scott Hanselman, a highly influential and prolific tech blogger, is a well-known champion of this idea. As he explains it in “Do they deserve the gift of your keystrokes?” (https://mng.bz/aVBj): “If you email someone one-on-one, you’re reaching that one person. If you blog about it, you get the message out on the web itself, and your keystrokes travel farther and reach more people. Assuming you want your message to reach as many people as possible, blog it. You only have so many hours in the day.”
+
+If you later decide to extend or adjust your take on the topic, simply update the related post. You don’t need to track down the 21 miscellaneous places you have already discussed this topic and try to get them all in sync—until the next update.
