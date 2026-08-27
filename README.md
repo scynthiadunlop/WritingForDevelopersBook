@@ -2,18 +2,6 @@
 <img src="excerpts/cover_frame.png" align="right" width="200"/>
 
 
-**Update:** All the formats are now available in all the places. Some direct links: [Manning](https://www.manning.com/books/writing-for-developers?utm_source=dunlop&utm_medium=affiliate&utm_campaign=book_dunlop_writing_5_16_24&a_aid=dunlop&a_bid=33a8dae6&chan=mm_twitter&) | [Amazon US](https://www.amazon.com/Writing-Developers-Blogs-that-read/dp/1633436284) | [India](https://www.amazon.in/Writing-Developers-Blogs-that-read/dp/1633436284/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.QLjCrRZLwxQfC5D3ku3TRA.bZFwFfuPsANbFBK_0WaZXPc41PvkTMLa8GOQKiUmnjs&qid=1738000296&sr=8-1) | [UK](https://www.amazon.co.uk/Writing-Developers-Blogs-that-read-ebook/dp/B0DSWM75J1/ref=tmm_kin_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.esl_7-Wikbyj4Sm3TVytK9aqGoZ44XQnITlniEGfYDCRK4Ai9yZv1ybVQpvLuZvy-nvMjbsJJNqMTXl6lQ_HXz4wNT98KzUphta_qEdsnZp2IHAjuCtT8UqGX0Q1I5Ce3e4d12KpL-VLe4gvaGwOWsMIBIT1r0fmEaDURFGSKV_aH1FVt-J3o8q2lvwd8mN1WQDbg4amoR9w0eFR0iBzbLpR76-U2i3_X30-D1pzkCI.6t-j0TJrJqYMPbY3h_sS8EDDJ_gcL6u0zPlD0XdjSSw&qid=1738000537&sr=8-1) | [DE](https://www.amazon.de/-/en/Writing-Developers-Piotr-Sarna/dp/1633436284/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.pNjtM75h8hGEebJe8QDv2BnDgvh2wd6dpsJ0FYYngIpk_g5FW8LqH9R_azLwXGyZrFuXkSpFe_InPYU_XW8Q9hENCwb-Ek8cWwnAc1jCAR5O9P1vjcdg9-FpHWn7GUM5w-U_B_qYy_6X1AbIMUHaHV4NTvz9DpDGawyiqVEhStSVN_-bM4qurrJgTMKROm8ZreLOQ3xr5b529XUkJWcXCTR5PeZoMestq8eN4ErLptk.fvoEzL1dOeDlgnUlLA1hYh38mKL9qamQ4CVGzWJRQ7s&qid=1738000474&sr=8-1) | [Japan](https://www.amazon.co.jp/-/en/Piotr-Sarna-ebook/dp/B0DSWLC5BN/ref=sr_1_2?crid=2OOI1DDWXY9FC&dib=eyJ2IjoiMSJ9.3Bv1Zy50M3shE_HSxUjRFFcdPIT9LL73_tKYdjqIotd8cxVY9BWkyNcxQuwgwCw7F2YLKJj1DCe9dPDFLx8K4A.Tst9Jc0rY2V-HVYxLRteKuFFvECuw3xWBmIrg_5NL2A&dib_tag=se&keywords=writing+for+developers&qid=1738000735&sprefix=writing+for+developers%2Caps%2C86&sr=8-2). The [Korean translation](https://blog.naver.com/gilbutzigy/224247517073) is available and the [Japanese translation](https://www.amazon.co.jp/dp/4839991626/) should be available September 2026.
-
-It's available on the [O'Reilly platform](https://learning.oreilly.com/library/view/writing-for-developers/9781633436282/) and also via lots of [public libraries](https://search.worldcat.org/title/1508837898). 
-
-Also, we started [writethat.blog](https://writethat.blog/) and [a related "newsletter"](https://writethatblog.substack.com/) for people who want to read/write great engineering blog posts. It includes writing tips from expert bloggers like Jeff Atwood, Charity Majors, antirez, Bryan Cantrill, Simon Willison, and more. We're also working on some more writing articles that follow up on book themes. 
-
-If you ended up here via a podcast or book club, here are the discount codes for Manning purchases:
- - Overcommitted: overcommitted50
- - Oxide and Friends: OXIDE50
- - Hanselminutes: HMdunlop
- - GOTO: GOTOdunlop
-***
 *Writing For Developers: Blogs That Get Read* is a practical guide to writing more compelling engineering blog posts. 
 
 We discuss strategies for optimizing all phases of the technical blogging process (topic selection, planning, drafting, writing, revising...). And we have fun exploring popular engineering blog post patterns such as “The Bug Hunt,” “How We Built It,” “Lessons Learned,” “We Rewrote It in X,” “Thoughts on Trends,” etc. Each "pattern" chapter includes an analysis of real-world examples as well as specific dos/don’ts for that particular pattern. There's a section on moving from blogging into opportunities such as article writing, conference speaking, and book writing. Finally, we wrap with a critical (and often amusing) look at generative AI blogging uses and abuses.
@@ -21,6 +9,24 @@ We discuss strategies for optimizing all phases of the technical blogging proces
 Oh...and there's also a **foreword by Bryan Cantrill** and an **afterword by Scott Hanselman**!  
 
 You can [preview the chapters on the Manning site](https://livebook.manning.com/book/writing-for-developers).
+
+## Availability
+All the formats are now available in all the places. Some direct links: [Manning](https://www.manning.com/books/writing-for-developers?utm_source=dunlop&utm_medium=affiliate&utm_campaign=book_dunlop_writing_5_16_24&a_aid=dunlop&a_bid=33a8dae6&chan=mm_twitter&) | [Amazon US](https://www.amazon.com/Writing-Developers-Blogs-that-read/dp/1633436284) | [India](https://www.amazon.in/Writing-Developers-Blogs-that-read/dp/1633436284/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.QLjCrRZLwxQfC5D3ku3TRA.bZFwFfuPsANbFBK_0WaZXPc41PvkTMLa8GOQKiUmnjs&qid=1738000296&sr=8-1) | [UK](https://www.amazon.co.uk/Writing-Developers-Blogs-that-read-ebook/dp/B0DSWM75J1/ref=tmm_kin_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.esl_7-Wikbyj4Sm3TVytK9aqGoZ44XQnITlniEGfYDCRK4Ai9yZv1ybVQpvLuZvy-nvMjbsJJNqMTXl6lQ_HXz4wNT98KzUphta_qEdsnZp2IHAjuCtT8UqGX0Q1I5Ce3e4d12KpL-VLe4gvaGwOWsMIBIT1r0fmEaDURFGSKV_aH1FVt-J3o8q2lvwd8mN1WQDbg4amoR9w0eFR0iBzbLpR76-U2i3_X30-D1pzkCI.6t-j0TJrJqYMPbY3h_sS8EDDJ_gcL6u0zPlD0XdjSSw&qid=1738000537&sr=8-1) | [DE](https://www.amazon.de/-/en/Writing-Developers-Piotr-Sarna/dp/1633436284/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.pNjtM75h8hGEebJe8QDv2BnDgvh2wd6dpsJ0FYYngIpk_g5FW8LqH9R_azLwXGyZrFuXkSpFe_InPYU_XW8Q9hENCwb-Ek8cWwnAc1jCAR5O9P1vjcdg9-FpHWn7GUM5w-U_B_qYy_6X1AbIMUHaHV4NTvz9DpDGawyiqVEhStSVN_-bM4qurrJgTMKROm8ZreLOQ3xr5b529XUkJWcXCTR5PeZoMestq8eN4ErLptk.fvoEzL1dOeDlgnUlLA1hYh38mKL9qamQ4CVGzWJRQ7s&qid=1738000474&sr=8-1) | [Japan](https://www.amazon.co.jp/-/en/Piotr-Sarna-ebook/dp/B0DSWLC5BN/ref=sr_1_2?crid=2OOI1DDWXY9FC&dib=eyJ2IjoiMSJ9.3Bv1Zy50M3shE_HSxUjRFFcdPIT9LL73_tKYdjqIotd8cxVY9BWkyNcxQuwgwCw7F2YLKJj1DCe9dPDFLx8K4A.Tst9Jc0rY2V-HVYxLRteKuFFvECuw3xWBmIrg_5NL2A&dib_tag=se&keywords=writing+for+developers&qid=1738000735&sprefix=writing+for+developers%2Caps%2C86&sr=8-2). The [Korean translation](https://blog.naver.com/gilbutzigy/224247517073) is available now and the [Japanese translation](https://www.amazon.co.jp/dp/4839991626/) should be available September 2026.
+
+It's available on the [O'Reilly platform](https://learning.oreilly.com/library/view/writing-for-developers/9781633436282/) and also via lots of [public libraries](https://search.worldcat.org/title/1508837898). 
+
+
+If you ended up here via a podcast or book club, here are the discount codes for Manning purchases:
+ - Overcommitted: overcommitted50
+ - Oxide and Friends: OXIDE50
+ - Hanselminutes: HMdunlop
+ - GOTO: GOTOdunlop
+
+## Write that blog
+As a not-so-subtle hint to our readers, we started [writethat.blog](https://writethat.blog/) with Piotr's monthly blog post picks and [a related "newsletter"](https://writethatblog.substack.com/) for people who want to read/write great engineering blog posts. It features writing tips from expert bloggers like Jeff Atwood, Charity Majors, antirez, Bryan Cantrill, Simon Willison, and more. We're also working on some more writing articles that follow up on book themes. 
+
+If you want updates via email, [here you go](https://writethatblog.substack.com/)! 
+
 
 ## Recommendations
 "In my experience, only a small fraction of developers write long-form (blogs, essays, reflections). Those who do tend to see benefits both over the short and long-run. This book is a missing guide to provide inspiration to get started writing down your thoughts. Getting started is always the most difficult step!" **\- Gergely Orosz, author of The Pragmatic Engineer Newsletter and The Software Engineer's Guidebook**
@@ -47,17 +53,6 @@ You can [preview the chapters on the Manning site](https://livebook.manning.com/
 "Piotr and Cynthia have both been tremendously helpful to me with writing and communicating effectively, and it's so exciting to see their wisdom distilled and shared with the world. If you're writing for developers, the best decision you can make is to read *Writing for Developers*." **\- Bo Ingram, Author of ScyllaDB in Action**  
 
 "If you're reading this book, you're already one step ahead, because you understand the best programming language we've ever created is the one you've known since you were four years old." **\- Jeff Atwood, Coding Horror Owner/Writer, Co-founder of Stack Overflow** 
-
-
-
-## Write That Blog!
-As a not-so-subtle hint to our readers, we created https://writethat.blog. We’ll be continuously updating this site with interesting engineering blog posts, including Piotr’s pundit commentary. 
-
-Bonus: See how Piotr [built "Write That Blog!" with Turso](https://turso.tech/blog/write-that-blog-with-turso)
-
-If you want monthly Write That Blog! updates via email, [here you go](https://writethatblog.substack.com/)! 
-
-We're also using that sight to share [insights from top tech bloggers](https://writethatblog.substack.com/t/tech-blogger-insights). So far, we've featured Eric Lippert, antirez, Bryan Cantrill (+Tim Bray, Will Snow, Adam Leventhal), Sam Rose, Jeff Atwood, Charity Majors, Gunnar Morling, Phil Eaton, Matt Butcher, fasterthanlime, Glauber Costa, Scott Hanselman, Mark Downie, Tanel Poder, Thorsten Ball, Aaron Francis, Preston Thorpe, Simon Willison, Sean Goedecke, Robin Moffatt, Gwen Shapira...
 
 
 
